@@ -1,16 +1,9 @@
 # machine-learning
 
-- Supervised Learning vs Unsupervised Learning
+- Regression: _Predicted value continous_
+- Classification: _Predicted values discreet_ 
 
-- Regression vs Classification Peoblems
-
-regression: predicted value continous
-
-classification: predicted values discreet 
-
-- Cost Function
-
-   half of the mean of the squares of difference between the predicted value and the actual value
+- Cost Function: _Half of the mean of the squares of difference between the predicted value and the actual value_
 
 - Gradient Descent
 
