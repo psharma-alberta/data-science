@@ -1,6 +1,6 @@
 # machine-learning
 
-##### Week 1
+##### (Week 1)[https://www.coursera.org/learn/machine-learning/home/week/1]
 
 - Regression: _Predicted value continous_
 - Classification: _Predicted values discreet_ 
@@ -11,6 +11,13 @@
 - Gradient Descent Intuition
 
 - Gradient Descent For Linear Regression
+
+## Math
+
+### [Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus)
+
+### [Linear algebra](https://www.khanacademy.org/math/linear-algebra)
+
 
 ## Resources
 
