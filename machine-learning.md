@@ -1,5 +1,7 @@
 # machine-learning
 
+##### Week 1
+
 - Regression: _Predicted value continous_
 - Classification: _Predicted values discreet_ 
 - Cost Function: _Half of the mean of the squares of difference between the predicted value and the actual value_
