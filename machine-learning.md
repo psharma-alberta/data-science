@@ -2,17 +2,13 @@
 
 - Regression: _Predicted value continous_
 - Classification: _Predicted values discreet_ 
-
 - Cost Function: _Half of the mean of the squares of difference between the predicted value and the actual value_
 
 - Gradient Descent
-   https://www.coursera.org/learn/machine-learning/supplement/2GnUg/gradient-descent
 
 - Gradient Descent Intuition
-   https://www.coursera.org/learn/machine-learning/supplement/QKEdR/gradient-descent-intuition
 
 - Gradient Descent For Linear Regression
-   https://www.coursera.org/learn/machine-learning/supplement/U90DX/gradient-descent-for-linear-regression
 
 ## Resources
 
