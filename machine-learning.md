@@ -1,6 +1,6 @@
 # machine-learning
 
-##### (Week 1)[https://www.coursera.org/learn/machine-learning/home/week/1]
+##### [Week 1](https://www.coursera.org/learn/machine-learning/home/week/1)
 
 - Regression: _Predicted value continous_
 - Classification: _Predicted values discreet_ 
