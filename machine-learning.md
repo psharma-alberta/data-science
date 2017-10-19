@@ -16,6 +16,10 @@
 
 ### [Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus)
 
+- Partial Derivative: _Derivative (of a function of several variables) with respect to one of those variables, with the others held constant. (Wiki)_
+
+- Gradient: _Packages all its partial derivative information into a vector_
+
 ### [Linear algebra](https://www.khanacademy.org/math/linear-algebra)
 
 
