@@ -10,13 +10,13 @@ classification: predicted values discreet
 
 - Cost Function
 
-half of the mean of the squares of difference between the predicted value and the actual value
+   half of the mean of the squares of difference between the predicted value and the actual value
 
-- Linear Regression with One Variable
+- Gradient Descent
 
-- Linear Regression with Multiple Variables
+- Gradient Descent Intuition
 
-- Logistic Regression
+- Gradient Descent For Linear Regression
 
 ## Resources
 
