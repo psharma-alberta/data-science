@@ -3,19 +3,21 @@
 
 ##### CH 1: Using neural nets to recognize handwritten digits
 
-Perceptrons
+###### Perceptrons
 
-Sigmoid neurons
+A perceptron takes several binary inputs and produces a single binary output.
 
-The architecture of neural networks
+###### Sigmoid neurons
 
-A simple network to classify handwritten digits
+###### The architecture of neural networks
 
-Learning with gradient descent
+###### A simple network to classify handwritten digits
 
-Implementing our network to classify digits
+###### Learning with gradient descent
 
-Toward deep learning
+###### Implementing our network to classify digits
+
+###### Toward deep learning
 
 #### Videos
 
