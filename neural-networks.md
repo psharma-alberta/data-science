@@ -1,15 +1,23 @@
 
 #### Book: [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 
-##### CH 1: Using neural nets to recognize handwritten digits
+#### CH 1: Using neural nets to recognize handwritten digits
 
-###### Perceptrons
+##### Perceptrons
 
-perceptron: takes several binary inputs and produces a single binary output
+###### Perceptron
 
-weights: numbers expressing the importance of the respective inputs to the output
+takes several binary inputs and produces a single binary output
 
-threshold: determines neuron's output based on whether the weighted sum is less than or greater than it; output is 0 if weighed sum is less than threshold, 1 if weighed sum is greater than threshold 
+###### Weights
+
+numbers expressing the importance of the respective inputs to the output
+
+###### Threshold 
+
+determines neuron's output based on whether the weighted sum is less than or greater than it
+
+output is 0 if weighed sum is less than threshold, 1 if weighed sum is greater than threshold 
 
 ###### Sigmoid neurons
 
