@@ -23,7 +23,7 @@ output is 0 if weighed sum is less than threshold, 1 if weighed sum is greater t
 
 measure of how easy it is to get the perceptron to fire
 
-really big bias > easy for the perceptron to output a 1, bias is very negative > difficult for the perceptron to output a 1
+really big bias == easy for the perceptron to output a 1, bias is very negative == difficult for the perceptron to output a 1
 
 ##### Sigmoid neurons
 
