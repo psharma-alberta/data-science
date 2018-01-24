@@ -1,7 +1,7 @@
 
 #### Book: [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 
-#### CH 1: Using neural nets to recognize handwritten digits
+#### 1: Using neural nets to recognize handwritten digits
 
 ##### Perceptrons
 
@@ -17,7 +17,12 @@ numbers expressing the importance of the respective inputs to the output
 
 determines neuron's output based on whether the weighted sum is less than or greater than it
 
-output is 0 if weighed sum is less than threshold, 1 if weighed sum is greater than threshold 
+output is 0 if weighed sum is less than threshold, 1 if weighed sum is greater than threshold
+
+###### Bias
+
+measure of how easy it is to get the perceptron to fire
+really big bias > easy for the perceptron to output a 1, bias is very negative > difficult for the perceptron to output a 1
 
 ###### Sigmoid neurons
 
