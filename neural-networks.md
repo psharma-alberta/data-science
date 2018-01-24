@@ -5,7 +5,11 @@
 
 ###### Perceptrons
 
-A perceptron takes several binary inputs and produces a single binary output.
+perceptron: takes several binary inputs and produces a single binary output
+
+weights: numbers expressing the importance of the respective inputs to the output
+
+threshold: determines neuron's output based on whether the weighted sum is less than or greater than it; output is 0 if weighed sum is less than threshold, 1 if weighed sum is greater than threshold 
 
 ###### Sigmoid neurons
 
