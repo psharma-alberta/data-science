@@ -51,7 +51,9 @@ defined by σ(z) ≡ 1 / 1 + e^(−z)
 
 layed network of sigmoid neurons, not perceptrons
 
+###### Feedforward neural networks
 
+neural networks where the output from one layer is used as input to the next layer
 
 
 
