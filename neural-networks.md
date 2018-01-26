@@ -47,6 +47,12 @@ defined by σ(z) ≡ 1 / 1 + e^(−z)
 
 ##### The architecture of neural networks
 
+###### Multilayer Perceptrons or MLPs
+
+layed network of sigmoid neurons, not perceptrons
+
+
+
 
 
 
