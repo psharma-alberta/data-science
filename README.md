@@ -10,3 +10,5 @@ Language: [Python](https://github.com/mobilege/data-science/blob/master/python.m
 ##### Misc:
 
 [Thoughts after taking the Deeplearning.ai courses](https://towardsdatascience.com/thoughts-after-taking-the-deeplearning-ai-courses-8568f132153)
+
+[Machine Learning for Trading Course](http://quantsoftware.gatech.edu/Machine_Learning_for_Trading_Course)
