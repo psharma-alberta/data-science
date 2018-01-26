@@ -31,7 +31,7 @@ really big bias == easy for the perceptron to output a 1, bias is very negative 
 
 small changes in their weights and bias cause only a small change in their output
 
-imput: any values between 0 and 1 (instead of 0s or 1s)
+input: any values between 0 and 1 (instead of 0s or 1s)
 
 output: σ(w⋅x+b), where σ is called the sigmoid function (instead of 0 or 1)
 
@@ -44,6 +44,8 @@ defined by σ(z) ≡ 1 / 1 + e^(−z)
 σ(z) = 0, when z is large and negative
 
 σ(z) = 0.5 z=0, 0.73 z=1, 0.88 z=2, 0.95 z=3, 0.98 z=4
+
+##### The architecture of neural networks
 
 
 
