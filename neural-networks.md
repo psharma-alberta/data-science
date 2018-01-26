@@ -55,6 +55,10 @@ layed network of sigmoid neurons, not perceptrons
 
 neural networks where the output from one layer is used as input to the next layer
 
+###### Recurrent neural networks
+
+these have neurons which fire for some limited duration of time, before becoming quiescent
+
 
 
 
