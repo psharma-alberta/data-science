@@ -25,6 +25,7 @@ measure of how easy it is to get the perceptron to fire
 
 really big bias == easy for the perceptron to output a 1, bias is very negative == difficult for the perceptron to output a 1
 
+
 ##### Sigmoid neurons
 
 ###### Sigmoid neuron
@@ -60,6 +61,7 @@ neural networks where the output from one layer is used as input to the next lay
 these have neurons which fire for some limited duration of time, before becoming quiescent
 
 
+##### A simple network to classify handwritten digits
 
 
 
