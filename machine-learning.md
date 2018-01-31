@@ -8,6 +8,8 @@
 
 - Gradient Descent
 
+[Mathematics of Gradient Descent - Intelligence and Learning](https://youtu.be/jc2IthslyzM)
+
 - Gradient Descent Intuition
 
 - Gradient Descent For Linear Regression
