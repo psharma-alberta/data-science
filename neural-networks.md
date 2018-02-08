@@ -65,6 +65,7 @@ these have neurons which fire for some limited duration of time, before becoming
 
 ##### Learning with gradient descent
 
+- our goal in training a neural network is to find weights and biases which minimize the quadratic cost function
 
 
 
