@@ -63,7 +63,7 @@ these have neurons which fire for some limited duration of time, before becoming
 
 ##### A simple network to classify handwritten digits
 
-
+##### Learning with gradient descent
 
 
 
