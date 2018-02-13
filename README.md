@@ -8,7 +8,7 @@ Language: [Python](https://github.com/mobilege/data-science/blob/master/python.m
 
 ## Math
 
-
+[Linear algebra](https://github.com/mobilege/data-science/blob/master/linear-algebra.md)
 
 ##### [Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus)
 
@@ -18,7 +18,7 @@ Derivative (of a function of several variables) with respect to one of those var
 ###### Gradient
 Packages all its partial derivative information into a vector
 
-##### [Linear algebra](https://www.khanacademy.org/math/linear-algebra)
+
 
 
 ## Misc
