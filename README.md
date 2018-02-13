@@ -6,8 +6,20 @@ Language: [Python](https://github.com/mobilege/data-science/blob/master/python.m
 
 [Neural Networks](https://github.com/mobilege/data-science/blob/master/neural-networks.md)
 
+## Math
 
-## Misc Resources:
+##### [Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus)
+
+###### Partial Derivative
+Derivative (of a function of several variables) with respect to one of those variables, with the others held constant. (Wiki)
+
+###### Gradient
+Packages all its partial derivative information into a vector
+
+##### [Linear algebra](https://www.khanacademy.org/math/linear-algebra)
+
+
+## Misc
 
 [Thoughts after taking the Deeplearning.ai courses](https://towardsdatascience.com/thoughts-after-taking-the-deeplearning-ai-courses-8568f132153)
 
