@@ -8,6 +8,8 @@ Language: [Python](https://github.com/mobilege/data-science/blob/master/python.m
 
 ## Math
 
+
+
 ##### [Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus)
 
 ###### Partial Derivative
