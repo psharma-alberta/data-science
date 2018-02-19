@@ -6,6 +6,10 @@ Language: [Python](https://github.com/mobilege/data-science/blob/master/python.m
 
 [Neural Networks](https://github.com/mobilege/data-science/blob/master/neural-networks.md)
 
+## Finance
+
+[Finance](https://github.com/mobilege/data-science/blob/master/finance.md) 
+
 ## Math
 
 [Linear algebra](https://github.com/mobilege/data-science/blob/master/linear-algebra.md)
