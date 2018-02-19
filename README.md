@@ -20,7 +20,7 @@ Language: [Python](https://github.com/mobilege/data-science/blob/master/python.m
 
 [Statistics & Probability]()
 
-[Numerical Analysis]()
+[Numerical Analysis]() *blocked by linear algebra, multivariable calculus & differential equations*
 
 [Time Series Analysis](https://github.com/mobilege/data-science/blob/master/time-series-analysis.md) *blocked by basic stats*
 
