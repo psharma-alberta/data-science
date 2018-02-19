@@ -25,9 +25,15 @@
 
 ###### Linear Combination
 
+- operation of scaling vectors and adding them
+
 ###### Span
 
 ###### Basis Vectors
+
+- if each coordinate/component is a vector can be thought of as a scalar multiplied by unit vectort (in that direction), then the vector itself can be thought of as their sum
+- these unit vectors are called 'basis vectors' 
+- represented as i-hat & j-hat
 
 #### Matrices
 
