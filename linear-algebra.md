@@ -39,7 +39,7 @@
 
 ###### Span
 
-
+- set of all linear combinations
 
 #### Matrices
 
