@@ -2,9 +2,9 @@
 
 Language: [Python](https://github.com/mobilege/data-science/blob/master/python.md)
  
-[Machine Learning](https://github.com/mobilege/data-science/blob/master/machine-learning.md) 
+[Machine Learning](https://github.com/mobilege/data-science/blob/master/machine-learning.md) *blocked by math prerequisites needed to understand the numerical solution to gradient descent*
 
-[Neural Networks](https://github.com/mobilege/data-science/blob/master/neural-networks.md)
+[Neural Networks](https://github.com/mobilege/data-science/blob/master/neural-networks.md) *blocked by math prerequisites needed to understand the vector calculus behind gradient descent*
 
 ## Finance
 
@@ -16,7 +16,11 @@ Language: [Python](https://github.com/mobilege/data-science/blob/master/python.m
 
 [Multivariable calculus](https://github.com/mobilege/data-science/blob/master/multivariable-calculus.md)
 
-[Time Series Analysis](https://github.com/mobilege/data-science/blob/master/time-series-analysis.md)
+[Statistics & Probability]()
+
+[Numerical Analysis]()
+
+[Time Series Analysis](https://github.com/mobilege/data-science/blob/master/time-series-analysis.md) *blocked by basic stats*
 
 ## Misc
 
