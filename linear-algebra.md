@@ -7,7 +7,9 @@
 
 - language to describe space and the manipulation of space
 
-#### Vectors
+
+
+##### 1. Vectors, what even are they?
 
 ###### Vectors
 
@@ -23,17 +25,21 @@
 - can be thought of a 'scaling' (stretching or squishing) operation
 - numerically, it is determined by multiplying every component with the scalar
 
-###### Linear Combination
-
-- operation of scaling vectors and adding them
-
-###### Span
+##### 2. Linear combinations, span, and basis vectors
 
 ###### Basis Vectors
 
 - if each coordinate/component is a vector can be thought of as a scalar multiplied by unit vectort (in that direction), then the vector itself can be thought of as their sum
 - these unit vectors are called 'basis vectors' 
 - represented as i-hat & j-hat
+
+###### Linear Combination
+
+- operation of scaling vectors and adding them
+
+###### Span
+
+
 
 #### Matrices
 
