@@ -16,6 +16,8 @@ Language: [Python](https://github.com/mobilege/data-science/blob/master/python.m
 
 [Multivariable calculus](https://github.com/mobilege/data-science/blob/master/multivariable-calculus.md)
 
+[Differential Equations]()
+
 [Statistics & Probability]()
 
 [Numerical Analysis]()
