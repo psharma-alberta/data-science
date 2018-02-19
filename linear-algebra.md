@@ -5,6 +5,12 @@
 
 ##### Vectors
 
+geometrically, can be thought of as an arrow in a coordinate system where the head sits at the point indicated by the vector & the tail sits at te origin 
+
+###### Vector Addition
+
+
+
 ###### Linear Combination
 
 ###### Span
