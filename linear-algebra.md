@@ -50,6 +50,10 @@
 
 - technically defined as a set of linearly independent vectors that span that vector space 
 
-#### Matrices
+##### 3. Linear transformations and matrices
+
+###### Linear transformation
+
+- keeps lines parallel & equally spaced
 
 #### Bases
