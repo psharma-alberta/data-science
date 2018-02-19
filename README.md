@@ -16,6 +16,8 @@ Language: [Python](https://github.com/mobilege/data-science/blob/master/python.m
 
 [Multivariable calculus](https://github.com/mobilege/data-science/blob/master/multivariable-calculus.md)
 
+[Time Series Analysis](https://github.com/mobilege/data-science/blob/master/time-series-analysis.md)
+
 ## Misc
 
 [Thoughts after taking the Deeplearning.ai courses](https://towardsdatascience.com/thoughts-after-taking-the-deeplearning-ai-courses-8568f132153)
