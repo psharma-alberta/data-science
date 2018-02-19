@@ -41,6 +41,15 @@
 
 - set of all linear combinations
 
+###### Linearly Dependent
+
+- one of the vectors doesn't add any new dimention to the span, or
+- one of the evctors can be expressed as a linear combination of the others
+
+###### Basis of a vector space
+
+- technically defined as a set of linearly independent vectors that span that vector space 
+
 #### Matrices
 
 #### Bases
