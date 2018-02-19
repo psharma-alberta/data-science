@@ -56,6 +56,11 @@
 
 - can be thought of as a function being applied to a vector to obtain a new vector
 - with the condition that, all lines are parallel & equally spaced
-- the result of a transformation can be determined by two coordinates: coordinates where i-hat & j-hat land 
+- in 2 dimensions, the result of a transformation can be determined by two coordinates: coordinates where i-hat & j-hat land
+- a 'transformation' is therefore a packaging of final positions of i-hat & j-hat in a 2x2 matrix where the columns describe the position of i & j 
+- matrices therefore can be thought of as 'transformations' being packaged such that the columns tells us where the corresponding basis vector lands after the transformation
+- matrix multiplication can be thought of as applying a transformation to a vector
+- numerically, it is simply adding the scaled versions of basis vectors
+
 
 #### Bases
