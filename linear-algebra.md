@@ -5,11 +5,17 @@
 
 ##### Vectors
 
-geometrically, can be thought of as an arrow in a coordinate system where the head sits at the point indicated by the vector & the tail sits at te origin 
+- geometrically, can be thought of as an arrow in a coordinate system where the head sits at the point indicated by the vector & the tail sits at the origin 
 
 ###### Vector Addition
 
+- can be thought of as combining movements (in space) 
+- numerically, it is determined by adding the respective components 
 
+###### Scalar Multiplication
+
+- can be thought of a 'scaling' (stretching or squishing) operation
+- numerically, it is determined by multiplying every component with the scalar
 
 ###### Linear Combination
 
