@@ -54,6 +54,8 @@
 
 ###### Linear transformation
 
-- keeps lines parallel & equally spaced
+- can be thought of as a function being applied to a vector to obtain a new vector
+- with the condition that, all lines are parallel & equally spaced
+- the result of a transformation can be determined by two coordinates: coordinates where i-hat & j-hat land 
 
 #### Bases
