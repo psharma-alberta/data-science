@@ -1,13 +1,27 @@
 # machine-learning
 
+### Statistical Learning - Stanford 
+
+[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+
+##### 1. Introduction
+
+- Notation and Simple Matrix Algebra (pg 9)
+
+
+
+
+## OLD 
+
+### Learning From Data - Caltech 
+
 [Learning From Data](http://work.caltech.edu/telecourse.html)
 
 [YouTube](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
 
 [Book](https://www.amazon.com/Learning-Data-Yaser-S-Abu-Mostafa/dp/1600490069/ref=cm_cr_arp_d_product_top?ie=UTF8)
 
-
-## OLD 
+### Machine Learning - Coursera 
 
 ##### [Week 1](https://www.coursera.org/learn/machine-learning/home/week/1)
 
