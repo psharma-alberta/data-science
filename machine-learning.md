@@ -4,9 +4,13 @@
 
 [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
 
-##### 1. Introduction
+#### 1. Introduction
 
 - Notation and Simple Matrix Algebra (pg 9)
+
+#### 2 Statistical Learning
+
+##### 2.1 What Is Statistical Learning?
 
 
 
