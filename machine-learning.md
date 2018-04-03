@@ -1,10 +1,10 @@
 # machine-learning
 
-### Statistical Learning - Stanford 
+### Statistical Learning 
 
-[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+[Statistical Learning - Lagunita Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
 
-[Book Chapters](https://github.com/mobilege/data-science/blob/master/islr-chapters.md)
+[Introduction to Statistical Learning - Chapters](https://github.com/mobilege/data-science/blob/master/islr-chapters.md)
 
 #### 1. Introduction
 
