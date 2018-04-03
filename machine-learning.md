@@ -8,13 +8,12 @@
 
 #### 1. Introduction
 
-- Notation and Simple Matrix Algebra (pg 9)
-
 #### 2 Statistical Learning
 
-##### 2.1 What Is Statistical Learning?
 
+## Misc
 
+[A Super Harsh Guide to Machine Learning](https://www.reddit.com/r/MachineLearning/comments/5z8110/d_a_super_harsh_guide_to_machine_learning/)
 
 
 ## OLD 
