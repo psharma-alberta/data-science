@@ -19,12 +19,12 @@ Language: [Python](https://github.com/mobilege/data-science/blob/master/python.m
 ## Math
 
 MIT Cources
-18.01 Single Variable Calculus
-18.02 Multivariable Calculus
-18.03 Differential Equations
-18.05 Introduction to Probability and Statistics or 18.440 Probability and Random Variables
-18.06 Linear Algebra
-18.S096 Topics in Mathematics with Applications in Finance
+- 18.01 Single Variable Calculus
+- 18.02 Multivariable Calculus
+- 18.03 Differential Equations
+- 18.05 Introduction to Probability and Statistics or 18.440 Probability and Random Variables
+- 18.06 Linear Algebra
+- 18.S096 Topics in Mathematics with Applications in Finance
 
 [Linear algebra](https://github.com/mobilege/data-science/blob/master/linear-algebra.md)
 
