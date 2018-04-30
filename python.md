@@ -5,9 +5,11 @@
 - Library Reference
 - Language Reference
 
-##### Collections
-- Indexed collections
-- Keyed collections
+##### Collection Types
+- Sequence Types — list, tuple, range
+- Text Sequence Type — str
+- Set Types — set, frozenset
+- Mapping Types — dict
 
 ## Misc
 
