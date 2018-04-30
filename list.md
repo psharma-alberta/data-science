@@ -8,7 +8,7 @@ list > MutableSequence > Sequence > Container, Iterable, Sized
 
 #### Create
 
-#### Get/Set 
+#### Adding/Removing elements 
 
 ```python
 # Adding & inserting items
