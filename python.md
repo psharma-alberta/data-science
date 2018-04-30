@@ -1,9 +1,9 @@
 # python
 
 ##### [Python 3 documentation](https://docs.python.org/3/)
-- Tutorial
-- Library Reference
-- Language Reference
+[Tutorial](https://docs.python.org/3/tutorial/index.html)
+[Library Reference](https://docs.python.org/3/library/index.html)
+[Language Reference](https://docs.python.org/3/reference/index.html)
 
 ##### Collection Types
 - Sequence Types — list, tuple, range
