@@ -12,9 +12,9 @@ list > MutableSequence > Sequence > Container, Iterable, Sized
 
 ```python
 # Adding & inserting items
-arr.append(item) # adds item inplace
-arr.extend(arr2) # adds items inplace
-arr.insert(idx, item) # inserts item at index, staring 0
+arr.append(item) # adds item, inplace
+arr.extend(arr2) # adds items, inplace
+arr.insert(idx, item) # inserts item at index, staring 0, inplace
 ```
 
 #### Search
