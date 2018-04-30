@@ -6,7 +6,7 @@
 ##### [Language Reference](https://docs.python.org/3/reference/index.html)
 
 ##### Collection Types
-- Sequence Types — list, tuple, range
+- Sequence Types — [list](https://github.com/mobilege/data-science/blob/master/list.md), tuple, range
 - Text Sequence Type — str
 - Set Types — set, frozenset
 - Mapping Types — dict
