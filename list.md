@@ -1,9 +1,14 @@
 
-### [list](https://docs.python.org/3/library/stdtypes.html#list)
+# [list]
+
+#### [Tutorial - 3.1.3. Lists](https://docs.python.org/3/tutorial/introduction.html#lists)
+#### [Library Reference - 4.6.4. Lists](https://docs.python.org/3/library/stdtypes.html#lists)
 
 list > MutableSequence > Sequence > Container, Iterable, Sized
 
-##### Find
+#### Create
+
+#### Find
 
 ```python
 # Check if exists
@@ -30,7 +35,7 @@ next(((i,v) for i, v in enumerate(list) if v == "foo"), None)
 [(i,v) for i, v in enumerate(list) if v == "baz"]
 ```
 
-##### Transform
+#### Transform
 
 ```python
 squares = [x**2 for x in range(10)]
