@@ -10,6 +10,13 @@ list > MutableSequence > Sequence > Container, Iterable, Sized
 
 #### Get/Set 
 
+```python
+# Adding & inserting items
+list.append(item) # adds item inplace
+list1.extend(list2) # adds list inplace
+list.insert(index, item) # inserts item at index, staring 0
+```
+
 #### Search
 
 ```python
