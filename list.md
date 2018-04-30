@@ -8,7 +8,9 @@ list > MutableSequence > Sequence > Container, Iterable, Sized
 
 #### Create
 
-#### Find
+#### Get/Set 
+
+#### Search
 
 ```python
 # Check if exists
@@ -34,6 +36,8 @@ next((i for i, v in enumerate(list) if v == "foo"), None) # first
 next(((i,v) for i, v in enumerate(list) if v == "foo"), None)
 [(i,v) for i, v in enumerate(list) if v == "baz"]
 ```
+
+#### Sort
 
 #### Transform
 
