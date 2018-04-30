@@ -1,4 +1,15 @@
-# [python](https://docs.python.org/3/)
+# python
+
+##### [Python 3 documentation](https://docs.python.org/3/)
+- Tutorial
+- Library Reference
+- Language Reference
+
+##### Collections
+- Indexed collections
+- Keyed collections
+
+## Misc
 
 [Style Guide](https://www.python.org/dev/peps/pep-0008/)
 
