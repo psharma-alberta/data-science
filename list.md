@@ -37,7 +37,7 @@ list.pop(index) # removes and returns the element at the given index,
 See: [The Python Standard Library - 4.6.3. Mutable Sequence Types](https://docs.python.org/3/library/stdtypes.html#mutable-sequence-types)
 
 
-#### Search
+#### Find
 
 ```python
 # Check if exists
@@ -63,6 +63,8 @@ next((i for i, v in enumerate(list) if v == "foo"), None) # first
 next(((i,v) for i, v in enumerate(list) if v == "foo"), None)
 [(i,v) for i, v in enumerate(list) if v == "baz"]
 ```
+
+#### Iterate
 
 #### Sort
 
