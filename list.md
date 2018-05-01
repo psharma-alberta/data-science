@@ -20,6 +20,8 @@ list.reverse() # reverses the list in place
 list.pop() returns the rightmost element 
 list.pop(index) # removes and returns the element at the given index, 
 ```
+See also: [The Python Standard Library - 4.6.3. Mutable Sequence Types](https://docs.python.org/3/library/stdtypes.html#mutable-sequence-types)
+
 
 #### Search
 
