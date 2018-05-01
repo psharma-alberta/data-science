@@ -69,5 +69,14 @@ next(((i,v) for i, v in enumerate(list) if v == "foo"), None)
 #### Transform
 
 ```python
+# Map
 squares = [x**2 for x in range(10)]
+```
+
+```python
+# Filter
+```
+
+```python
+# Reduce
 ```
