@@ -8,13 +8,17 @@ list > MutableSequence > Sequence > Container, Iterable, Sized
 
 #### Create
 
-#### Adding/Removing elements 
+#### Mutating Methods 
 
 ```python
-# Adding & inserting items
-arr.append(item) # adds item, inplace
-arr.extend(arr2) # adds items, inplace
-arr.insert(idx, item) # inserts item at index, staring 0, inplace
+list.append(elem) # adds a single element to the end of the list
+list.insert(index, elem) # inserts the element at the given index, shifting elements to the right
+list.extend(list2) # adds the elements in list2 to the end of the list
+list.remove(elem) # searches for the element, removes first instance, throws ValueError if not present
+list.sort() # sorts the list in place
+list.reverse() # reverses the list in place
+list.pop() returns the rightmost element 
+list.pop(index) # removes and returns the element at the given index, 
 ```
 
 #### Search
