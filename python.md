@@ -6,9 +6,10 @@
 ##### [Language Reference](https://docs.python.org/3/reference/index.html)
 
 ##### Collection Types
-###### Sequence Types — [list](https://github.com/mobilege/data-science/blob/master/list.md), tuple, range
 
-See: [8.4.1. Collections Abstract Base Classes](https://docs.python.org/3/library/collections.abc.html#collections-abstract-base-classes)
+Sequence Types — [list](https://github.com/mobilege/data-science/blob/master/list.md), tuple, range
+
+    See: [8.4.1. Collections Abstract Base Classes](https://docs.python.org/3/library/collections.abc.html#collections-abstract-base-classes)
 
 - Text Sequence Type — str
 - Set Types — set, frozenset
