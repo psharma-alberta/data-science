@@ -5,8 +5,8 @@
 ##### [Library Reference](https://docs.python.org/3/library/index.html)
 ##### [Language Reference](https://docs.python.org/3/reference/index.html)
 
-H5 Collection Types
-H6 Sequence Types — [list](https://github.com/mobilege/data-science/blob/master/list.md), tuple, range
+##### Collection Types
+###### Sequence Types — [list](https://github.com/mobilege/data-science/blob/master/list.md), tuple, range
 
 See: [8.4.1. Collections Abstract Base Classes](https://docs.python.org/3/library/collections.abc.html#collections-abstract-base-classes)
 
