@@ -19,8 +19,7 @@ len(list) # length of list
 x in list	# True if exists
 x not in list	# False if exists
 ```
-See: [The Python Standard Library - 4.6.1. Common Sequence Operations](https://docs.python.org/3/library/stdtypes.html#common-sequence-operations)
-
+###### [Library - 4.6.1. Common Sequence Operations](https://docs.python.org/3/library/stdtypes.html#common-sequence-operations)
 
 #### Mutating methods 
 
@@ -34,7 +33,8 @@ list.reverse() # reverses the list in place
 list.pop() # returns the rightmost element 
 list.pop(index) # removes and returns the element at the given index, 
 ```
-See: [The Python Standard Library - 4.6.3. Mutable Sequence Types](https://docs.python.org/3/library/stdtypes.html#mutable-sequence-types)
+
+###### [Library - 4.6.3. Mutable Sequence Types](https://docs.python.org/3/library/stdtypes.html#mutable-sequence-types)
 
 
 #### Find
