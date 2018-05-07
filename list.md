@@ -5,9 +5,8 @@
 
 list > MutableSequence > Sequence > Container, Iterable, Sized
 
-###### [Tutorial - 3.1.3. Lists](https://docs.python.org/3/tutorial/introduction.html#lists)
-
-###### [Library Reference - 4.6.4. Lists](https://docs.python.org/3/library/stdtypes.html#lists)
+- [Tutorial - 3.1.3. Lists](https://docs.python.org/3/tutorial/introduction.html#lists)
+- [Library Reference - 4.6.4. Lists](https://docs.python.org/3/library/stdtypes.html#lists)
 
 #### Non-mutating methods 
 
@@ -19,7 +18,8 @@ len(list) # length of list
 x in list	# True if exists
 x not in list	# False if exists
 ```
-###### [Library - 4.6.1. Common Sequence Operations](https://docs.python.org/3/library/stdtypes.html#common-sequence-operations)
+
+- [Library - 4.6.1. Common Sequence Operations](https://docs.python.org/3/library/stdtypes.html#common-sequence-operations)
 
 #### Mutating methods 
 
@@ -34,7 +34,7 @@ list.pop() # returns the rightmost element
 list.pop(index) # removes and returns the element at the given index, 
 ```
 
-###### [Library - 4.6.3. Mutable Sequence Types](https://docs.python.org/3/library/stdtypes.html#mutable-sequence-types)
+- [Library - 4.6.3. Mutable Sequence Types](https://docs.python.org/3/library/stdtypes.html#mutable-sequence-types)
 
 
 #### Find
