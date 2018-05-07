@@ -16,8 +16,8 @@ Sequence Types —
 [tuple](https://github.com/mobilege/data-science/blob/master/tuple.md), 
 [range](https://github.com/mobilege/data-science/blob/master/range.md) 
 
-   [8.4.1. Collections Abstract Base Classes](https://docs.python.org/3/library/collections.abc.html#collections-abstract-base-classes) 
-   
+   [8.4.1. Collections Abstract Base Classes](https://docs.python.org/3/library/collections.abc.html#collections-abstract-base-classes
+   
    [PEP 3119 -- Introducing Abstract Base Classes](https://www.python.org/dev/peps/pep-3119/)
 
 Text Sequence Type — str
