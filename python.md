@@ -24,8 +24,8 @@ Mapping Types — dict
 
 #### Control Flow
 
-[enumerate()](https://github.com/mobilege/data-science/blob/master/enumerate.md), 
-[zip()](https://github.com/mobilege/data-science/blob/master/zip.md),
+[enumerate](https://github.com/mobilege/data-science/blob/master/enumerate.md), 
+[zip](https://github.com/mobilege/data-science/blob/master/zip.md),
 [Iterators](https://github.com/mobilege/data-science/blob/master/iterators.md),
 Generators
 
