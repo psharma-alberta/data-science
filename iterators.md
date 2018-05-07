@@ -26,4 +26,4 @@
 
 - *enumerate() returns an interator, invoking __next__() on which returns a tuple containing index and value*
 
-###### [enumerate(iterable, start=0)](https://docs.python.org/3/library/functions.html#enumerate)
+###### [Library: enumerate(iterable, start=0)](https://docs.python.org/3/library/functions.html#enumerate)
