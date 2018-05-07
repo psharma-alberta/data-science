@@ -9,7 +9,7 @@
 ###### [Python Cookbook: Chapter 4. Iterators and Generators](https://www.safaribooksonline.com/library/view/python-cookbook-3rd/9781449357337/ch04.html)
 
 
-- *implement "__next__()"*
+- *implement ```__next__()```*
 
 ```python
 
