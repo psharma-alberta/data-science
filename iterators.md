@@ -4,5 +4,5 @@
 
 ###### [Library: 4.5. Iterator Types](https://docs.python.org/3/library/stdtypes.html#iterator-types)
 
-[Fluent Python: Chapter 14. Iterables, Iterators, and Generators](https://www.safaribooksonline.com/library/view/fluent-python/9781491946237/ch14.html)
+###### [Fluent Python: Chapter 14. Iterables, Iterators, and Generators](https://www.safaribooksonline.com/library/view/fluent-python/9781491946237/ch14.html)
 
