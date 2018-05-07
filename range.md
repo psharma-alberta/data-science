@@ -1,12 +1,11 @@
 
+- [Tutorial: 4.3. The range() Function](https://docs.python.org/3/tutorial/controlflow.html#the-range-function)
+
+- [Library: 4.6.6. Ranges](https://docs.python.org/3/library/stdtypes.html#ranges)
+
+- [Colab notebook](https://drive.google.com/file/d/1fZPycs7yo1nUsRjO4lmZWV7byy86znhs/view)
 
 **Range** type represents an immutable sequence of numbers
-
-###### [Tutorial: 4.3. The range() Function](https://docs.python.org/3/tutorial/controlflow.html#the-range-function)
-
-###### [Library: 4.6.6. Ranges](https://docs.python.org/3/library/stdtypes.html#ranges)
-
-###### [Colab notebook](https://drive.google.com/file/d/1fZPycs7yo1nUsRjO4lmZWV7byy86znhs/view)
 
 ```python
 # create 
