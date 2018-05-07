@@ -6,7 +6,7 @@
 ###### [Language Reference](https://docs.python.org/3/reference/index.html)
 
 
-##### Collection Types
+#### Collection Types
 
 Sequence Types — 
 [list](https://github.com/mobilege/data-science/blob/master/list.md), 
@@ -23,7 +23,7 @@ Set Types — set, frozenset
 Mapping Types — dict
 
 
-##### Control Flow
+#### Control Flow
 
 Iterators, Generators, Generator Expressions
 
