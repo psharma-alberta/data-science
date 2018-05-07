@@ -17,6 +17,6 @@
   list(enumerate(lst)) # [(0, 'a'), (1, 'b'), (2, 'c')]
 ```
 
-- *enumerate() returns an interator, invoking __next__() on which returns a tuple containing index and value*
+- *enumerate() returns an interator of tuples containing index and value*
 
 
