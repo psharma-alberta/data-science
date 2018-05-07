@@ -25,7 +25,9 @@ Mapping Types — dict
 
 #### Control Flow
 
-[enumerate()](https://github.com/mobilege/data-science/blob/master/enumerate.md), Iterators, Generators
+[enumerate()](https://github.com/mobilege/data-science/blob/master/enumerate.md), 
+[Iterators](https://github.com/mobilege/data-science/blob/master/iterators.md),
+Generators
 
 
 
