@@ -25,7 +25,7 @@ Mapping Types — dict
 
 #### Control Flow
 
-Iterators, Generators, Generator Expressions
+Iterators, Generators
 
 
 
