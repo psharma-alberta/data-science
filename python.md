@@ -1,9 +1,9 @@
 # python
 
-- [Python 3 documentation](https://docs.python.org/3/)
-- - ###### [Tutorial](https://docs.python.org/3/tutorial/index.html)
-- - ###### [Library](https://docs.python.org/3/library/index.html)
-- - ###### [Language Reference](https://docs.python.org/3/reference/index.html)
+- [Python 3 documentation](https://docs.python.org/3/) . 
+   [Tutorial](https://docs.python.org/3/tutorial/index.html) . 
+   [Library](https://docs.python.org/3/library/index.html) . 
+   [Language Reference](https://docs.python.org/3/reference/index.html) . 
 
 
 #### Collection Types
