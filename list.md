@@ -1,12 +1,13 @@
 
 # list
 
+- [Tutorial - 3.1.3. Lists](https://docs.python.org/3/tutorial/introduction.html#lists)
+- [Library Reference - 4.6.4. Lists](https://docs.python.org/3/library/stdtypes.html#lists)
+
 **Lists** are mutable sequences
 
 list > MutableSequence > Sequence > Container, Iterable, Sized
 
-- [Tutorial - 3.1.3. Lists](https://docs.python.org/3/tutorial/introduction.html#lists)
-- [Library Reference - 4.6.4. Lists](https://docs.python.org/3/library/stdtypes.html#lists)
 
 #### Non-mutating methods 
 
