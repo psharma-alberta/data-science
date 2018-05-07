@@ -42,6 +42,10 @@ MIT Cources
 
 ## Misc
 
+###### Trading Libs
+
+[ccxt](https://github.com/ccxt/ccxt/tree/master/python)
+
 [Thoughts after taking the Deeplearning.ai courses](https://towardsdatascience.com/thoughts-after-taking-the-deeplearning-ai-courses-8568f132153)
 
 [Machine Learning for Trading Course](http://quantsoftware.gatech.edu/Machine_Learning_for_Trading_Course)
