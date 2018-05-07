@@ -29,7 +29,7 @@ Mapping Types — dict
 [Iterators](https://github.com/mobilege/data-science/blob/master/iterators.md),
 Generators
 
-
+- [Library: 2. Built-in Functions](https://docs.python.org/3/library/functions.html)
 
 ## Misc
 
