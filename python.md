@@ -1,13 +1,9 @@
 # python
 
 [Python 3 documentation](https://docs.python.org/3/) 
-
-   [Tutorial](https://docs.python.org/3/tutorial/index.html)
-    
-   [Library](https://docs.python.org/3/library/index.html)
-    
-   [Language Reference](https://docs.python.org/3/reference/index.html)
-
+- [Tutorial](https://docs.python.org/3/tutorial/index.html)
+- [Library](https://docs.python.org/3/library/index.html)
+- [Language Reference](https://docs.python.org/3/reference/index.html)
 
 #### Collection Types
 
@@ -16,9 +12,8 @@ Sequence Types —
 [tuple](https://github.com/mobilege/data-science/blob/master/tuple.md), 
 [range](https://github.com/mobilege/data-science/blob/master/range.md) . 
 
-   [8.4.1. Collections Abstract Base Classes](https://docs.python.org/3/library/collections.abc.html#collections-abstract-base-classes) . 
-   
-   [PEP 3119 -- Introducing Abstract Base Classes](https://www.python.org/dev/peps/pep-3119/)
+- [8.4.1. Collections Abstract Base Classes](https://docs.python.org/3/library/collections.abc.html#collections-abstract-base-classes)
+- [PEP 3119 -- Introducing Abstract Base Classes](https://www.python.org/dev/peps/pep-3119/)
 
 Text Sequence Type — str
 
