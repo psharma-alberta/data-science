@@ -1,11 +1,11 @@
 # enumerate 
 
-###### [Library: enumerate(iterable, start=0)](https://docs.python.org/3/library/functions.html#enumerate)
+- [Library: enumerate(iterable, start=0)](https://docs.python.org/3/library/functions.html#enumerate)
 
-###### [Python Cookbook: Chapter 4. Iterators and Generators](https://www.safaribooksonline.com/library/view/python-cookbook-3rd/9781449357337/ch04.html)
+- [Python Cookbook: Chapter 4. Iterators and Generators](https://www.safaribooksonline.com/library/view/python-cookbook-3rd/9781449357337/ch04.html)
 
 
-- *enumerate() returns an interator of tuples containing index and value*
+**enumerate()** returns an interator of tuples containing index and value
 
 ```python
   # Iterating over index-value pairs of a sequence
