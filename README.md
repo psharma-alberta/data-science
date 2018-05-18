@@ -20,13 +20,6 @@ Frameworks: NumPy, Pandas
 
 ## Math
 
-MIT Cources
-- 18.01 Single Variable Calculus (36 lectures)
-- 18.02 Multivariable Calculus (35 lectures)
-- 18.03 Differential Equations (33 lectures)
-- 18.05 Introduction to Probability and Statistics or 18.440 Probability and Random Variables ()
-- 18.06 Linear Algebra (34 lectures)
-- 18.S096 Topics in Mathematics with Applications in Finance (26 lectures)
 
 [Linear algebra](https://github.com/mobilege/data-science/blob/master/linear-algebra.md)
 
@@ -40,7 +33,15 @@ MIT Cources
 
 [Time Series Analysis](https://github.com/mobilege/data-science/blob/master/time-series-analysis.md) *blocked by basic stats*
 
-## Misc
+## Resources
+
+###### MIT Math Cources
+- 18.01 Single Variable Calculus (36 lectures)
+- 18.02 Multivariable Calculus (35 lectures)
+- 18.03 Differential Equations (33 lectures)
+- 18.05 Introduction to Probability and Statistics or 18.440 Probability and Random Variables ()
+- 18.06 Linear Algebra (34 lectures)
+- 18.S096 Topics in Mathematics with Applications in Finance (26 lectures)
 
 ###### Trading Libs
 
