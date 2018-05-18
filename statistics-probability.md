@@ -6,7 +6,7 @@
 
 - denoted by sigma squared
 - (sum of squares of difference between actual & mean)/total count 
-- measure of how far the data points in a population are (on average) from the population mean
+- measure of how far the data points in a population are from the population mean
 
 ###### [Standard deviation (of a population)](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population/v/population-standard-deviation)
 
