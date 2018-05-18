@@ -20,6 +20,9 @@
 - denoted by s squared
 - (sum of squares of difference between actual & mean)/(total count - 1)
 
+###### [Z-score](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/z-scores/a/z-scores-review)
+
+- measure of how many standard deviations above or below the mean a data point is
 
 ###### [Correlation coefficients](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/scatterplots-and-correlation/a/correlation-coefficient-review)
 
