@@ -27,7 +27,7 @@ Frameworks: NumPy, Pandas
 
 [Differential Equations]()
 
-[Statistics & Probability]()
+[Statistics & Probability](https://github.com/mobilege/data-science/blob/master/statistics-probability.md)
 
 [Numerical Analysis]() *blocked by linear algebra, multivariable calculus & differential equations*
 
