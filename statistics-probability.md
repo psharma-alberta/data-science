@@ -11,6 +11,6 @@
 ###### [Residual](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/regression-library/a/introduction-to-residuals)
 
 - vertical distance between the best-fit line and a data point
-
+- actual value - predicted value
 
 
