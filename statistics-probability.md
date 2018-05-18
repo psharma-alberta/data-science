@@ -24,6 +24,12 @@
 
 - measure of how many standard deviations above or below the mean a data point is
 
+###### [Density Curve](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/density-curve/v/density-curves)
+
+- used for visualizing distributions
+- total area under the curve is 1
+- area under the curve for any interval tells you the percentage of data that falls in that interval
+
 ###### [Correlation coefficients](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/scatterplots-and-correlation/a/correlation-coefficient-review)
 
 - measure of strength (& direction) of a linear relationship
