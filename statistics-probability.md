@@ -30,6 +30,12 @@
 - total area under the curve is 1
 - area under the curve for any interval tells you the percentage of data that falls in that interval
 
+###### [Normal Distribution](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/normal-distribution-calculation/a/basic-normal-calculations)
+
+- 68% of the data falls within 1 standard deviation of the mean
+- 95% of the data falls within 2 standard deviations of the mean
+- 99.7% of the data falls within 3 standard deviations of the mean
+
 ###### [Correlation coefficients](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/scatterplots-and-correlation/a/correlation-coefficient-review)
 
 - measure of strength (& direction) of a linear relationship
