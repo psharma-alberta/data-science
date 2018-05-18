@@ -12,6 +12,9 @@
 
 - denoted by sigma 
 - sq root of population variance
+- measure of spread of a data distribution
+- more spread -> high standard deviation, data points close to the mean -> standard deviation close to 0
+
 
 ###### [Correlation coefficients](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/scatterplots-and-correlation/a/correlation-coefficient-review)
 
