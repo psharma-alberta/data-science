@@ -15,6 +15,11 @@
 - measure of spread of a data distribution
 - more spread -> high standard deviation, data points close to the mean -> standard deviation close to 0
 
+###### [Variation (of a sample)](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-sample/v/sample-variance)
+
+- denoted by s squared
+- (sum of squares of difference between actual & mean)/(total count - 1)
+
 
 ###### [Correlation coefficients](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/scatterplots-and-correlation/a/correlation-coefficient-review)
 
