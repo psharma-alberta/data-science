@@ -4,8 +4,14 @@
 
 ###### [Variance (of a population)](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population/v/variance-of-a-population)
 
+- denoted by sigma squared
+- (sum of squares of difference between actual & mean)/total count 
 - measure of how far the data points in a population are (on average) from the population mean
 
+###### [Standard deviation (of a population)](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population/v/population-standard-deviation)
+
+- denoted by sigma 
+- sq root of population variance
 
 ###### [Correlation coefficients](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/scatterplots-and-correlation/a/correlation-coefficient-review)
 
