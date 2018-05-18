@@ -2,6 +2,10 @@
 
 - [Statistics and probability - Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 
+###### [Variance (of a population)](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population/v/variance-of-a-population)
+
+- measure of how far the data points in a population are (on average) from the population mean
+
 
 ###### [Correlation coefficients](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/scatterplots-and-correlation/a/correlation-coefficient-review)
 
