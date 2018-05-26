@@ -35,7 +35,7 @@ Frameworks: NumPy, Pandas
 
 ## Projects
 
-[Crypto Bot]()
+[Crypto Bot](https://github.com/mobilege/data-science/blob/master/crypto-bot.md)
 
 ## Resources
 
