@@ -33,6 +33,10 @@ Frameworks: NumPy, Pandas
 
 [Time Series Analysis](https://github.com/mobilege/data-science/blob/master/time-series-analysis.md) *blocked by basic stats*
 
+## Projects
+
+[Crypto Bot]()
+
 ## Resources
 
 ###### MIT Math Cources
