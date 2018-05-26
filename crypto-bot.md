@@ -2,7 +2,7 @@
 
 - [ccxt - Wiki](https://github.com/ccxt/ccxt/wiki)
 
-
+###### Virtual Environment
 ```
 conda create --name crypto python=3
 source activate crypto
