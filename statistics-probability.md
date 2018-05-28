@@ -68,6 +68,10 @@
 - plots residual vs x-values
 - gives a sense of how good the fit is, & whether a line explains the relationship well
 
+###### [R-squared intuition (coefficient of determination)](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/assessing-the-fit-in-least-squares-regression/a/r-squared-intuition)
 
+- measure of prediction error eliminated (using least-squares regression vs. just averaging)
+- denoted by r squared, calculated by squaring the correlation coefficient
+- equals (surprisingly) `(sum of squares error using averaging - sum of squares error using least-squares regression) / (sum of squares error using averaging)`
 
 
