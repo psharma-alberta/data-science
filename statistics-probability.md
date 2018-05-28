@@ -61,6 +61,13 @@
 ###### [Residual](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/regression-library/a/introduction-to-residuals)
 
 - vertical distance between the best-fit line and a data point
-- actual value - predicted value
+- calculated as `actual value - predicted value`
+
+###### Residual Plot
+
+- plots residual vs x-values
+- gives a sense of how good the fit is, & whether a line explains the relationship well
+
+
 
 
