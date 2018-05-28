@@ -74,4 +74,8 @@
 - denoted by r squared, calculated by squaring the correlation coefficient
 - equals (surprisingly) `(error from averaging - error from least-squares regression) / (error from averaging)` 
 
+###### [Standard deviation of residuals or Root-mean-square error (RMSD)](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/assessing-the-fit-in-least-squares-regression/v/standard-deviation-of-residuals-or-root-mean-square-error-rmsd)
+
+- same as standard deviation but uses predicted values instead of mean
+- calculated as `square root of ( (sum of squares of actual - predicted) / total-1)`
 
