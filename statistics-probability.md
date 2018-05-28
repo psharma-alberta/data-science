@@ -28,7 +28,7 @@
 
 - measure of how many standard deviations above or below the mean a data point is
 - denoted by z
-- calculated from `(value - mean)/standard deviation`  
+- calculated from `(actual - mean)/standard deviation`  
 
 ###### [Density Curve](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/density-curve/v/density-curves)
 
