@@ -72,6 +72,6 @@
 
 - measure of prediction error eliminated (using least-squares regression vs. just averaging)
 - denoted by r squared, calculated by squaring the correlation coefficient
-- equals (surprisingly) `(sum of squares error using averaging - sum of squares error using least-squares regression) / (sum of squares error using averaging)`
+- equals (surprisingly) `(error from averaging - error from least-squares regression) / (error from averaging)` 
 
 
