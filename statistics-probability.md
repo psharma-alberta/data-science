@@ -2,6 +2,8 @@
 
 - [Statistics and probability - Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 
+#### Summarizing quantitative data
+
 ###### [Variance (of a population)](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population/v/variance-of-a-population)
 
 - denoted by sigma squared
