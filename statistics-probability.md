@@ -7,7 +7,7 @@
 ###### [Variance (of a population)](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population/v/variance-of-a-population)
 
 - denoted by sigma squared
-- (sum of squares of difference between actual & mean)/total count 
+- calculated as `(sum of squares of (actual - mean))/total count` 
 - measure of how far the data points in a population are from the population mean
 
 ###### [Standard deviation (of a population)](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population/v/population-standard-deviation)
@@ -20,7 +20,7 @@
 ###### [Variation (of a sample)](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-sample/v/sample-variance)
 
 - denoted by s squared
-- (sum of squares of difference between actual & mean)/(total count - 1)
+- calculated as `(sum of squares of (actual - mean))/(total count - 1)
 
 #### Modeling data distributions
 
