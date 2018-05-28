@@ -42,6 +42,13 @@
 
 #### Exploring bivariate numerical data
 
+###### [Describing scatterplots (form, direction, strength, outliers)](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/introduction-to-scatterplots/a/describing-scatterplots-form-direction-strength-outliers)
+
+- Form: Is the association linear or nonlinear?
+- Direction: Is the association positive or negative?
+- Strength: Does the association appear to be strong, moderately strong, or weak?
+- Outliers: Do there appear to be any data points that are unusually far away from the general pattern?
+
 ###### [Correlation coefficients](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/scatterplots-and-correlation/a/correlation-coefficient-review)
 
 - measure of strength (& direction) of a linear relationship
