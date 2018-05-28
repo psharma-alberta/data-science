@@ -13,14 +13,14 @@
 ###### [Standard deviation (of a population)](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population/v/population-standard-deviation)
 
 - denoted by sigma 
-- sq root of population variance
+- calculated as `sq root of population variance`
 - measure of spread of a data distribution
 - more spread -> high standard deviation, data points close to the mean -> standard deviation close to 0
 
 ###### [Variation (of a sample)](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-sample/v/sample-variance)
 
 - denoted by s squared
-- calculated as `(sum of squares of (actual - mean))/(total count - 1)
+- calculated as `(sum of squares of (actual - mean))/(total count - 1)`
 
 #### Modeling data distributions
 
