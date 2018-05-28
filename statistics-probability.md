@@ -63,7 +63,7 @@
 - vertical distance between the best-fit line and a data point
 - calculated as `actual value - predicted value`
 
-###### Residual Plot
+###### [Residual Plot](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/assessing-the-fit-in-least-squares-regression/v/residual-plots)
 
 - plots residual vs x-values
 - gives a sense of how good the fit is, & whether a line explains the relationship well
