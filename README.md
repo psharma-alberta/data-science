@@ -61,7 +61,7 @@ Frameworks: NumPy, Pandas
 
 ###### Books
 
-[Calculus Made Easy](http://www.gutenberg.org/files/33283/33283-pdf.pdf)
+[Calculus Made Easy - Thompson](http://www.gutenberg.org/files/33283/33283-pdf.pdf)
 
 ###### Coursera
 
