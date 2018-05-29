@@ -8,6 +8,7 @@
 
 - Vector dot product: sum of products of respective components
 - Vector length: square root of sum of squares of individual components
+- Vector length: also equals square root of the dot product of the vector with itself
 
 
 
