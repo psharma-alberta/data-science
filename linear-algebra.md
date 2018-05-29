@@ -1,7 +1,19 @@
+## linear-algebra.md
 
-[Linear algebra - Khan Academy](https://www.khanacademy.org/math/linear-algebra)
+- [Linear algebra - Khan Academy](https://www.khanacademy.org/math/linear-algebra)
 
-[Essence of linear algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+#### Vectors and spaces
+
+###### [Vector dot product and vector length](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/vector-dot-product-and-vector-length)
+
+- Vector dot product: sum of products of respective components
+- Vector length: square root of sum of squares of individual components
+
+
+
+
+
+## [Essence of linear algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 ###### Linear Algebra
 
