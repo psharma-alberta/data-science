@@ -10,7 +10,9 @@
 - Vector length: square root of sum of squares of individual components
 - Vector length: also equals square root of the dot product of the vector with itself
 
+###### [Dot and cross product comparison/intuition](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/dot-and-cross-product-comparison-intuition)
 
+- Dot product: product of a vector and the component of other on it
 
 
 
