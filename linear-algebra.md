@@ -14,7 +14,7 @@
 
 - Dot product: product of a vector and the component of other on it
 - Dot product is 0 if the vectors are perpendicular
-- Dot product is simply the product of magnitudes if the vectors are pointing in the same direction
+- Dot product is simply the product of magnitudes if the vectors are colinear
 
 
 ## [Essence of linear algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
