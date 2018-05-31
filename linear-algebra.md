@@ -6,7 +6,7 @@
 
 ###### [Vector dot product and vector length](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/vector-dot-product-and-vector-length)
 
-- Vector dot product: sum of products of respective components
+- Vector dot product calculated as `sum of products of respective components`
 - Vector length: square root of sum of squares of individual components
 - Vector length: also equals square root of the dot product of the vector with itself
 
