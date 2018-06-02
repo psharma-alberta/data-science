@@ -84,3 +84,10 @@
 
 - multiplying two matrices is geometrically the same as applying one transformation and then the other
 - the order of multiplication is right to left (transformation represented by the right matrix is applied first)
+
+###### Calculating the product of two matrices
+
+- where does i-hat land after the first transformation? `1st col of 2nd matrix`
+- where does i-hat land after the second transformation? `(2nd matrix) * (1st col of 2nd matrix)`
+- this is the same as the first column of the result!
+- similarly obtain the second column of result
