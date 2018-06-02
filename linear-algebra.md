@@ -97,6 +97,7 @@
 ###### Determinant
 
 - factor by which a transformation (matrix) scales any area
+- if 0 it means that the transformation squashes everything to a smaller dimension 
 
 
 ## [Linear Algebra - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
