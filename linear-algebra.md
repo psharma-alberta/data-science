@@ -109,3 +109,4 @@
 - `Ax = b` Ax is a combination of columns of A, or
 - `Ax = b` the columns of A scaled by x produces b
 
+#### [2. Elimination with matrices](https://youtu.be/QVKj3LADCnA)
