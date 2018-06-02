@@ -91,3 +91,13 @@
 - where does i-hat land after the second transformation? `(2nd matrix) * (1st col of 2nd matrix)`
 - this is the same as the first column of the result!
 - similarly obtain the second column of result
+
+## [Linear Algebra - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+
+- [MIT 18.06 Linear Algebra, Spring 2005 - YouTube](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
+
+#### [1. The geometry of linear equations](https://youtu.be/ZK3O402wf1c)
+
+- `Ax = b` Ax is a combination of columns of A, or
+- `Ax = b` the columns of A scaled by x produces b
+
