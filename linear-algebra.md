@@ -80,4 +80,6 @@
 - numerically, it is simply adding the scaled versions of basis vectors
 
 
-#### Bases
+#### 4. [Matrix multiplication as composition](https://youtu.be/XkY2DOUCWMU)
+
+- multiplying two matrices is geometrically the same as applying one transformation and then the other
