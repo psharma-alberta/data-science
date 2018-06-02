@@ -83,3 +83,4 @@
 #### 4. [Matrix multiplication as composition](https://youtu.be/XkY2DOUCWMU)
 
 - multiplying two matrices is geometrically the same as applying one transformation and then the other
+- the order of multiplication is right to left (transformation represented by the right matrix is applied first)
