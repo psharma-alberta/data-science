@@ -80,7 +80,7 @@
 - numerically, it is simply adding the scaled versions of basis vectors
 
 
-#### 4. [Matrix multiplication as composition](https://youtu.be/XkY2DOUCWMU)
+#### [4. Matrix multiplication as composition](https://youtu.be/XkY2DOUCWMU)
 
 - multiplying two matrices is geometrically the same as applying one transformation and then the other
 - the order of multiplication is right to left (transformation represented by the right matrix is applied first)
@@ -91,6 +91,13 @@
 - where does i-hat land after the second transformation? `(2nd matrix) * (1st col of 2nd matrix)`
 - this is the same as the first column of the result!
 - similarly obtain the second column of result
+
+#### [5. The determinant](https://youtu.be/Ip3X9LOh2dk)
+
+###### Determinant
+
+- factor by which a transformation (matrix) scales any area
+
 
 ## [Linear Algebra - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
