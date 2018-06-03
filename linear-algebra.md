@@ -104,6 +104,13 @@
 
 - [MIT 18.06 Linear Algebra, Spring 2005 - YouTube](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
 
+#### Book
+1	The geometry of linear equations |	1.1-2.1
+2	Elimination with matrices |	2.2-2.3
+3	Matrix operations and inverses |	2.4-2.5
+4	LU and LDU factorization |	2.6
+5	Transposes and permutations |	2.7
+
 #### [1. The geometry of linear equations](https://youtu.be/ZK3O402wf1c)
 
 - `Ax = b` Ax is a combination of columns of A, or
