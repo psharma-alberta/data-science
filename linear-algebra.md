@@ -119,3 +119,8 @@
 - `Ax = b` the columns of A scaled by x produces b
 
 #### [2. Elimination with matrices](https://youtu.be/QVKj3LADCnA)
+
+## INTRODUCTION TO LINEAR ALGEBRA - Fourth Edition - GILBERT STRANG
+
+
+
