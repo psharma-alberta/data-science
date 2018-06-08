@@ -21,7 +21,7 @@ Frameworks: NumPy, Pandas
 ## Math
 
 
-[Linear algebra](https://github.com/mobilege/data-science/blob/master/linear-algebra.md)
+[Linear algebra](https://github.com/mobilege/linear-algebra)
 
 [Multivariable calculus](https://github.com/mobilege/data-science/blob/master/multivariable-calculus.md)
 
