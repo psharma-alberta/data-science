@@ -120,7 +120,9 @@
 
 #### [2. Elimination with matrices](https://youtu.be/QVKj3LADCnA)
 
-## INTRODUCTION TO LINEAR ALGEBRA - Fourth Edition - GILBERT STRANG
+## Introduction to Linear Algebra - 4th Edition - Gilbert Strang
+
+
 
 
 
