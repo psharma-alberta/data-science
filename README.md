@@ -6,9 +6,12 @@ Frameworks: NumPy, Pandas
  
 [Machine Learning](https://github.com/mobilege/data-science/blob/master/machine-learning.md) 
 
-- Machine Learning - Coursera was blocked by math prerequisites needed to understand the numerical solution to gradient descent
+- Machine Learning - Coursera *blocked by math prerequisites needed to understand the numerical solution to gradient descent*
 - moved on to Learning From Data - CalTech
-- moved on to Statistical Learning - Stanford
+- moved on to Statistical Learning - Stanford *hit a wall with 3.1.2 Accessing the accuracy...*
+- moved on to Machine Learning - Coursera again 
+    - *learning Linear Algebra basics*
+    - *using 'Data Science from Scratch' book for coding specific algorithms* 
 
 [Neural Networks](https://github.com/mobilege/data-science/blob/master/neural-networks.md) 
 
