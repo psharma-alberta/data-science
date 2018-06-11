@@ -74,6 +74,10 @@ Frameworks: NumPy, Pandas
 
 [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)
 
+###### EdX
+
+[Statistics and Data Science - Micromasters - MIT](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
+
 ###### Fast AI
 
 [Practical Deep Learning For Coders](http://course.fast.ai/index.html)
