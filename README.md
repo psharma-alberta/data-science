@@ -29,7 +29,7 @@ Frameworks: NumPy, Pandas
 
 [Statistics & Probability](https://github.com/mobilege/data-science/blob/master/statistics-probability.md)
 
-[Applications in Finance](https://github.com/mobilege/data-science/blob/master/time-series-analysis.md) **y3**
+[Applications in Finance](https://github.com/mobilege/data-science/blob/master/applications-in-finance.md) *y3*
 
 ## Projects
 
