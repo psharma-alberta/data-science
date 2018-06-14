@@ -34,7 +34,7 @@ Frameworks: NumPy, Pandas
 
 [Numerical Analysis]() *blocked by linear algebra, multivariable calculus & differential equations*
 
-[Time Series Analysis](https://github.com/mobilege/data-science/blob/master/time-series-analysis.md) *blocked by basic stats*
+[Applications in Finance](https://github.com/mobilege/data-science/blob/master/time-series-analysis.md) *blocked by basic stats*
 
 ## Projects
 
