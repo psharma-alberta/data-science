@@ -38,7 +38,10 @@ Frameworks: NumPy, Pandas
 ## Resources
 
 ###### Additional Math Cources
+
 - [Deterministic Optimization - Georgia Tech - EdX](https://courses.edx.org/courses/course-v1:GTx+ISYE6669x+1T2018/course/)
+
+- [Differential Equations: Linear Algebra and NxN Systems of Differential Equations - MIT - EdX](https://www.edx.org/course/differential-equations-linear-algebra-and-nxn-systems-of-differential-equations)
 
 ###### Trading Libs
 
