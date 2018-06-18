@@ -35,16 +35,13 @@ Frameworks: NumPy, Pandas
 ###### Additional Math Cources
 
 - [Deterministic Optimization - Georgia Tech - EdX](https://courses.edx.org/courses/course-v1:GTx+ISYE6669x+1T2018/course/)
-
 - [Differential Equations: Linear Algebra and NxN Systems of Differential Equations - MIT - EdX](https://www.edx.org/course/differential-equations-linear-algebra-and-nxn-systems-of-differential-equations)
 
 ###### Trading Libs
 
-[ccxt](https://github.com/ccxt/ccxt/tree/master/python)
-
-[Thoughts after taking the Deeplearning.ai courses](https://towardsdatascience.com/thoughts-after-taking-the-deeplearning-ai-courses-8568f132153)
-
-[Machine Learning for Trading Course](http://quantsoftware.gatech.edu/Machine_Learning_for_Trading_Course)
+- [ccxt](https://github.com/ccxt/ccxt/tree/master/python)
+- [Thoughts after taking the Deeplearning.ai courses](https://towardsdatascience.com/thoughts-after-taking-the-deeplearning-ai-courses-8568f132153)
+- [Machine Learning for Trading Course](http://quantsoftware.gatech.edu/Machine_Learning_for_Trading_Course)
 
 ###### Aggregates
 
@@ -56,32 +53,23 @@ Frameworks: NumPy, Pandas
 
 ###### Coursera
 
-[Machine Learning - Andrew Ng - Stanford University - Coursera](https://www.coursera.org/learn/machine-learning/home/welcome)
-
-[Machine Learning - Andrew Ng - Stanford University - Youtube](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
-
-[Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)
+- [Machine Learning - Andrew Ng - Stanford University - Coursera](https://www.coursera.org/learn/machine-learning/home/welcome)
+- [Machine Learning - Andrew Ng - Stanford University - Youtube](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+- [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)
 
 ###### EdX
 
-[Statistics and Data Science - Micromasters - MIT](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
+- [Statistics and Data Science - Micromasters - MIT](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
 
 ###### Fast AI
 
-[Practical Deep Learning For Coders](http://course.fast.ai/index.html)
+- [Practical Deep Learning For Coders](http://course.fast.ai/index.html)
 
 ###### Georgia Tech Videos
 
-[Machine Learning: Supervised Learning Part 1a of 3](https://www.youtube.com/playlist?list=PLAwxTw4SYaPl0N6-e1GvyLp5-MUMUjOKo)
-
-[Machine Learning: Supervised Learning Part 1b of 3](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlkESDcHD-0oqVx5sAIgz7O)
-
-[Machine Learning: Unsupervised Learning Part 2 of 3](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmaHhu-Lz3mhLSj-YH-JnG7)
-
-[Machine Learning: Reinforcement Learning Part 3 of 3](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnidDwo9e2c7ixIsu_pdSNp)
+- [Machine Learning: Supervised Learning Part 1a of 3](https://www.youtube.com/playlist?list=PLAwxTw4SYaPl0N6-e1GvyLp5-MUMUjOKo), [Part 1b/3](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlkESDcHD-0oqVx5sAIgz7O), [Part 2/3](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmaHhu-Lz3mhLSj-YH-JnG7), [Part 3/3](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnidDwo9e2c7ixIsu_pdSNp)
 
 ###### UARK
 
-[Michael S. Gashler](http://csce.uark.edu/~mgashler/)
-
-[A Tour of Machine Learning](http://csce.uark.edu/~mgashler/lab/ml.pdf)
+- [Michael S. Gashler](http://csce.uark.edu/~mgashler/)
+- [A Tour of Machine Learning](http://csce.uark.edu/~mgashler/lab/ml.pdf)
