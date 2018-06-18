@@ -23,13 +23,8 @@ Frameworks: NumPy, Pandas
 
 ## Math
 
-[Linear algebra](https://github.com/mobilege/linear-algebra)
-
-[Multivariable calculus](https://github.com/mobilege/data-science/blob/master/multivariable-calculus.md)
-
-[Statistics & Probability](https://github.com/mobilege/data-science/blob/master/statistics-probability.md)
-
-[Applications in Finance](https://github.com/mobilege/data-science/blob/master/applications-in-finance.md) *y3*
+- [Linear algebra](https://github.com/mobilege/linear-algebra)
+- [Statistics & Probability](https://github.com/mobilege/data-science/blob/master/statistics-probability.md)
 
 ## Projects
 
