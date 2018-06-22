@@ -79,3 +79,9 @@
 - same as standard deviation but uses predicted values instead of mean
 - calculated as `square root of ( (sum of squares of actual - predicted) / total-1)`
 
+
+## [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110)
+
+- [Stat 110 playlist on YouTube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+- [Introduction to Probability - Blitzstein - Amazon](https://www.amazon.com/Introduction-Probability-Chapman-Statistical-Science/dp/1466575573/ref=asap_bc?ie=UTF8)
+
