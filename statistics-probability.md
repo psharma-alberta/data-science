@@ -84,4 +84,6 @@
 
 - [Stat 110 playlist on YouTube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 - [Introduction to Probability - Blitzstein - Amazon](https://www.amazon.com/Introduction-Probability-Chapman-Statistical-Science/dp/1466575573/ref=asap_bc?ie=UTF8)
+- [
+Introduction to Probability - Safari Books](https://www.safaribooksonline.com/library/view/introduction-to-probability/9781466575578/)
 
