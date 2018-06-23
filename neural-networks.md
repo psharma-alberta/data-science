@@ -78,4 +78,4 @@ these have neurons which fire for some limited duration of time, before becoming
 
 [Lecture Collection | Natural Language Processing with Deep Learning (Winter 2017) - Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
-
+[Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017) - Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
