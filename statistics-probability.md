@@ -87,3 +87,4 @@
 - [
 Introduction to Probability - Safari Books](https://www.safaribooksonline.com/library/view/introduction-to-probability/9781466575578/)
 
+*Next: Read Book Chap 1*
