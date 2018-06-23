@@ -73,3 +73,9 @@ these have neurons which fire for some limited duration of time, before becoming
 #### Videos
 
 [Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - 3Blue1Brown
+
+## Resources
+
+[Lecture Collection | Natural Language Processing with Deep Learning (Winter 2017) - Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+
+
