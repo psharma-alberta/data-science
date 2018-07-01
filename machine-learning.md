@@ -1,5 +1,13 @@
 # machine-learning
 
+
+## [Data Science from Scratch](https://www.safaribooksonline.com/library/view/data-science-from/9781491901410/)
+
+- [8. Gradient Descent](https://www.safaribooksonline.com/library/view/data-science-from/9781491901410/ch08.html)
+- [14. Simple Linear Regression](https://www.safaribooksonline.com/library/view/data-science-from/9781491901410/ch14.html)
+- [15. Multiple Regression](https://www.safaribooksonline.com/library/view/data-science-from/9781491901410/ch15.html)
+
+
 ## Machine Learning - Coursera 
 
 ##### [Week 1](https://www.coursera.org/learn/machine-learning/home/week/1)
@@ -13,13 +21,6 @@
 - Gradient Descent Intuition
 
 - Gradient Descent For Linear Regression
-
-## [Data Science from Scratch](https://www.safaribooksonline.com/library/view/data-science-from/9781491901410/)
-
-- [8. Gradient Descent](https://www.safaribooksonline.com/library/view/data-science-from/9781491901410/ch08.html)
-- [14. Simple Linear Regression](https://www.safaribooksonline.com/library/view/data-science-from/9781491901410/ch14.html)
-- [15. Multiple Regression](https://www.safaribooksonline.com/library/view/data-science-from/9781491901410/ch15.html)
-
 
 ## Misc
 
