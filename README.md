@@ -12,6 +12,7 @@ Frameworks: NumPy, Pandas
 - moved on to Machine Learning - Coursera again 
     - *learning Linear Algebra basics*
     - *using 'Data Science from Scratch' book for coding specific algorithms* 
+- moved on to **Data Science from Scratch** book
 
 [Neural Networks](https://github.com/mobilege/data-science/blob/master/neural-networks.md) 
 
