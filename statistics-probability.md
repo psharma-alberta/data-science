@@ -87,4 +87,7 @@
 - [
 Introduction to Probability - Safari Books](https://www.safaribooksonline.com/library/view/introduction-to-probability/9781466575578/)
 
-*Next: Read Book Chap 1*
+
+## [Probabilistic Systems Analysis and Applied Probability - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
+
+#### [1: Probability Models and Axioms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/unit-i/lecture-1/)
