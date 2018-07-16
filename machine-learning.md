@@ -4,7 +4,8 @@
 
 - [Introduction to Artificial Intelligence (AI) - EdX](https://courses.edx.org/courses/course-v1:Microsoft+DAT263x+2T2018/course/)
 - [https://portal.azure.com/](https://portal.azure.com/)
-- [Setup Guide](file:///Users/rabin.joshi/Downloads/DAT263x-Setup.pdf)
+
+*Unit 2: Machine Learning*
 
 
 ## [Data Science from Scratch](https://www.safaribooksonline.com/library/view/data-science-from/9781491901410/)
