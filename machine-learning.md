@@ -3,6 +3,7 @@
 ## [Microsoft Professional Program for Artificial Intelligence](https://academy.microsoft.com/en-us/tracks/artificial-intelligence)
 
 - [Introduction to Artificial Intelligence (AI) - EdX](https://courses.edx.org/courses/course-v1:Microsoft+DAT263x+2T2018/course/)
+- [https://portal.azure.com/](https://portal.azure.com/)
 - [Setup Guide](file:///Users/rabin.joshi/Downloads/DAT263x-Setup.pdf)
 
 
