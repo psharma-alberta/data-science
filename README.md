@@ -23,11 +23,6 @@ Frameworks: NumPy, Pandas
 
 [Finance](https://github.com/mobilege/data-science/blob/master/finance.md) 
 
-## Math
-
-- [Linear algebra](https://github.com/mobilege/linear-algebra)
-- [Statistics & Probability](https://github.com/mobilege/data-science/blob/master/statistics-probability.md)
-
 ## Projects
 
 [Crypto Bot](https://github.com/mobilege/data-science/blob/master/crypto-bot.md)
