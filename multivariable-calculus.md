@@ -1,5 +1,3 @@
-# Multivariable Calculus
-
 ## [Multivariable Calculus - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
 
 #### [1. Vectors & Matrices](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/)
