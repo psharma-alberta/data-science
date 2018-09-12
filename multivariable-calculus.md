@@ -5,7 +5,7 @@
 *Parts 3, Sessions 21*
 
 
-## [Multivariable calculus - Khan Academy](https://www.khanacademy.org/math/multivariable-calculus)
+## [Multivariable Calculus - Khan Academy](https://www.khanacademy.org/math/multivariable-calculus)
 
 ###### Partial Derivative
 Derivative (of a function of several variables) with respect to one of those variables, with the others held constant. (Wiki)
