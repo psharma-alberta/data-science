@@ -4,7 +4,7 @@
 
 *Parts 3, Sessions 21*
 
-- [Session 1: Vectors](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-1-vectors/) [Youtube 0;00 - 15:00](https://youtu.be/PxCxlsl_YwY)
+- [Session 1: Vectors](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-1-vectors/)    [Youtube 0:00 - 15:00](https://youtu.be/PxCxlsl_YwY)
 
 
 ## [Multivariable Calculus - Khan Academy](https://www.khanacademy.org/math/multivariable-calculus)
