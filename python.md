@@ -11,6 +11,7 @@ $ mkdir myproject
 $ cd myproject
 $ python3 -m venv newenv
 $ source newenv/bin/activate
+$ pip install Flask
 $ deactivate
 ```
 See: [Creating Virtual Environments](https://packaging.python.org/tutorials/installing-packages/#creating-virtual-environments)
