@@ -6,6 +6,15 @@
 [Language Reference](https://docs.python.org/3/reference/index.html)
 - [Python and Flask - CS50W Notes](https://cs50.harvard.edu/web/notes/2/)
 
+`
+$ mkdir myproject
+$ cd myproject
+$ python3 -m venv newenv
+$ source newenv/bin/activate
+$ deactivate
+`
+See: [Creating Virtual Environments](https://packaging.python.org/tutorials/installing-packages/#creating-virtual-environments)
+
 #### Collection Types
 
 Sequence Types — 
