@@ -1,9 +1,10 @@
 # python
 
-[Python 3 documentation](https://docs.python.org/3/) 
-- [Tutorial](https://docs.python.org/3/tutorial/index.html)
-- [Library](https://docs.python.org/3/library/index.html)
-- [Language Reference](https://docs.python.org/3/reference/index.html)
+- [Python 3 documentation](https://docs.python.org/3/), 
+[Tutorial](https://docs.python.org/3/tutorial/index.html)
+[Library](https://docs.python.org/3/library/index.html), 
+[Language Reference](https://docs.python.org/3/reference/index.html)
+- [Python and Flask - CS50W Notes](https://cs50.harvard.edu/web/notes/2/)
 
 #### Collection Types
 
