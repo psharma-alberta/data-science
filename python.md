@@ -5,6 +5,7 @@
 [Library](https://docs.python.org/3/library/index.html), 
 [Language Reference](https://docs.python.org/3/reference/index.html)
 - [Python and Flask - CS50W Notes](https://cs50.harvard.edu/web/notes/2/)
+- [Flask Tutorial in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask)
 
 ```
 $ mkdir myproject
