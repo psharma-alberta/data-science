@@ -17,6 +17,8 @@
 
 - [Flask Tutorial in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask)
 
+#### Flask
+
 ```
 $ mkdir myproject
 $ cd myproject
@@ -25,6 +27,12 @@ $ source newenv/bin/activate
 $ pip install Flask
 $ deactivate
 ```
+
+```
+$ flask run
+$ CTRL+C to quit
+```
+
 See: [Creating Virtual Environments](https://packaging.python.org/tutorials/installing-packages/#creating-virtual-environments)
 
 #### Collection Types
