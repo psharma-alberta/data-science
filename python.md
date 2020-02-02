@@ -5,7 +5,7 @@
 [Library](https://docs.python.org/3/library/index.html), 
 [Language Reference](https://docs.python.org/3/reference/index.html)
 - CS50W Notes: [Python and Flask](https://cs50.harvard.edu/web/notes/2/), 
-[ORMs, APIs](https://cs50.harvard.edu/web/notes/4/)
+[ORMs and APIs](https://cs50.harvard.edu/web/notes/4/)
 - [Flask Tutorial in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask)
 
 ```
