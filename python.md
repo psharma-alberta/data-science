@@ -4,10 +4,17 @@
 [Tutorial](https://docs.python.org/3/tutorial/index.html)
 [Library](https://docs.python.org/3/library/index.html), 
 [Language Reference](https://docs.python.org/3/reference/index.html)
+
 - CS50W Notes: 
 [Python and Flask](https://cs50.harvard.edu/web/notes/2/), 
 [SQL](https://cs50.harvard.edu/web/notes/3/), 
 [ORMs and APIs](https://cs50.harvard.edu/web/notes/4/)
+
+- SQL: 
+[Postgres.app](https://postgresapp.com), 
+[Install](https://youtu.be/5AOkxqFaYEE), 
+[Psql](http://postgresguide.com/utilities/psql.html)
+
 - [Flask Tutorial in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask)
 
 ```
