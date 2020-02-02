@@ -15,9 +15,12 @@
 [Install](https://youtu.be/5AOkxqFaYEE), 
 [Psql](http://postgresguide.com/utilities/psql.html)
 
-- [Flask Tutorial in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask)
-
 #### Flask
+
+- [Documentation](https://flask.palletsprojects.com/en/1.1.x/) > 
+[Quickstart](https://flask.palletsprojects.com/en/1.1.x/quickstart/)
+
+- [Flask Tutorial in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask)
 
 ```
 $ mkdir myproject
