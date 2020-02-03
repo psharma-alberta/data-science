@@ -38,6 +38,16 @@ $ CTRL+C to quit
 
 See: [Creating Virtual Environments](https://packaging.python.org/tutorials/installing-packages/#creating-virtual-environments)
 
+#### Django
+
+Create virtual environment
+```
+$ python3 -m venv env
+$ source env/bin/activate
+```
+Install Django
+```$ python -m pip install Django```
+
 #### Collection Types
 
 Sequence Types — 
