@@ -45,8 +45,10 @@ Create virtual environment
 $ python3 -m venv env
 $ source env/bin/activate
 ```
-Install Django
-```$ python -m pip install Django```
+Install Django ```$ python -m pip install Django```
+Create new project ```$ django-admin startproject <projectname>```
+Create new app (inside the project directory) ```$ python manage.py startapp <appname>```
+
 
 #### Collection Types
 
