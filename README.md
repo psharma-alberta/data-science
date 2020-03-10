@@ -29,6 +29,11 @@ Frameworks: NumPy, Pandas
 
 ## Resources
 
+###### Sequences
+
+[6.0001 Intro to CS and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) > 
+[6.0002 Intro to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+
 ###### Additional Math Cources
 
 - [Deterministic Optimization - Georgia Tech - EdX](https://courses.edx.org/courses/course-v1:GTx+ISYE6669x+1T2018/course/)
