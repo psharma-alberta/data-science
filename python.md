@@ -34,7 +34,7 @@ Text Sequence Type — str
 Set Types — set, frozenset
 
 Mapping Types — dict
-```
+
 
 #### list
 
