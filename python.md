@@ -8,7 +8,7 @@
 [Library](https://docs.python.org/3/library/index.html) · 
 [Reference](https://docs.python.org/3/reference/index.html)
 
-Table of Contents
+## Table of Contents
 - [list](#list)
 - [dict](#dict)
 
@@ -68,6 +68,8 @@ next(((i,v) for i, v in enumerate(list) if v == "foo"), None)
 [(i,v) for i, v in enumerate(list) if v == "baz"]
 ```
 
+[Back to Top ↑ ](#table-of-contents)
+
 ## [dict](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict)
 
 dict > MutableMapping > Mapping > Container, Iterable, Sized
@@ -86,6 +88,8 @@ dic.get("some_key", "default") # default if not found
 # Transform
 {k:v**2 for (k,v) in dic.items()}
 ```
+
+[Back to Top ↑ ](#table-of-contents)
 
 ## set 
 
