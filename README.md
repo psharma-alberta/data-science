@@ -1,5 +1,4 @@
-[mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md)/
-[data-science](https://github.com/mobilege/data-science/edit/master/README.md)
+[mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) / [data-science](https://github.com/mobilege/data-science/blob/master/README.md)
 
 # data-science
 
