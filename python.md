@@ -18,9 +18,10 @@
 
 ## Collection Types
 
-- [8.4.1. Collections Abstract Base Classes](https://docs.python.org/3/library/collections.abc.html#collections-abstract-base-classes)
-- [PEP 3119 -- Introducing Abstract Base Classes](https://www.python.org/dev/peps/pep-3119/)
+- Library > [Collections Abstract Base Classes](https://docs.python.org/3/library/collections.abc.html#collections-abstract-base-classes)
 - Library > [Collections](https://docs.python.org/3/library/collections.html)
+- Library > [Common Sequence Operations](https://docs.python.org/3/library/stdtypes.html#common-sequence-operations)
+- Library > [Mutable Sequence Types](https://docs.python.org/3/library/stdtypes.html#mutable-sequence-types)
 - [PEP 3119 -- Introducing Abstract Base Classes](https://www.python.org/dev/peps/pep-3119/)
 
 
@@ -37,16 +38,13 @@ Mapping Types — dict
 
 
 #### list
-
-- [Tutorial - 3.1.3. Lists](https://docs.python.org/3/tutorial/introduction.html#lists)
-- [Library Reference - 4.6.4. Lists](https://docs.python.org/3/library/stdtypes.html#lists)
-- [Library - 4.6.1. Common Sequence Operations](https://docs.python.org/3/library/stdtypes.html#common-sequence-operations)
-- [Library - 4.6.3. Mutable Sequence Types](https://docs.python.org/3/library/stdtypes.html#mutable-sequence-types)
+- Tutorial > [Lists](https://docs.python.org/3/tutorial/introduction.html#lists)
+- Library > [Lists](https://docs.python.org/3/library/stdtypes.html#lists)
 - [py · list · create](https://replit.com/@rabinjoshi1/py-list-create#main.py)
 
-**Lists** are mutable sequences
+*Lists are mutable sequences*
 
-list > MutableSequence > Sequence > Container, Iterable, Sized 
+*list > MutableSequence > Sequence > Container, Iterable, Sized* 
 
 ```python
 list[i]	# ith item of s
