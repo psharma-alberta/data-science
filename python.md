@@ -3,11 +3,10 @@
 [python /](https://github.com/mobilege/data-science/blob/master/python.md)
 
 # Python
-- [Python 3 documentation](https://docs.python.org/3/), 
-[Tutorial](https://docs.python.org/3/tutorial/index.html)
-[Library](https://docs.python.org/3/library/index.html), 
-[Language Reference](https://docs.python.org/3/reference/index.html)
-
+[Python 3 documentation](https://docs.python.org/3/) · 
+[Tutorial](https://docs.python.org/3/tutorial/index.html) · 
+[Library](https://docs.python.org/3/library/index.html) · 
+[Reference](https://docs.python.org/3/reference/index.html)
 
 ## Collection Types
 - Library > [Collections Abstract Base Classes](https://docs.python.org/3/library/collections.abc.html#collections-abstract-base-classes)
@@ -15,27 +14,20 @@
 - Library > [Common Sequence Operations](https://docs.python.org/3/library/stdtypes.html#common-sequence-operations)
 - Library > [Mutable Sequence Types](https://docs.python.org/3/library/stdtypes.html#mutable-sequence-types)
 - [PEP 3119 -- Introducing Abstract Base Classes](https://www.python.org/dev/peps/pep-3119/)
-
-
-Sequence Types — 
+- Sequence Types — 
 [list](#list), 
 [tuple](#tuple), 
 [range](#range) 
-
-Text Sequence Type — str
-
-Set Types — set, frozenset
-
-Mapping Types — dict
+- Text Sequence Type — str
+- Set Types — set, frozenset
+- Mapping Types — dict
 
 
-#### list
-- Tutorial > [Lists](https://docs.python.org/3/tutorial/introduction.html#lists)
-- Library > [Lists](https://docs.python.org/3/library/stdtypes.html#lists)
-- [py · list · create](https://replit.com/@rabinjoshi1/py-list-create#main.py)
-
+#### [list](https://docs.python.org/3/library/stdtypes.html#lists)
 *Lists are mutable sequences*\
 *list > MutableSequence > Sequence > Container, Iterable, Sized* 
+
+[py · list · create](https://replit.com/@rabinjoshi1/py-list-create#main.py)
 
 ```python
 list[i]	# ith item of s
