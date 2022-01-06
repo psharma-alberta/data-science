@@ -8,6 +8,10 @@
 [Library](https://docs.python.org/3/library/index.html) · 
 [Reference](https://docs.python.org/3/reference/index.html)
 
+Table of Contents
+- [list](#list)
+- [dict](#dict)
+
 ## Collection Types
 - Library > [Collections Abstract Base Classes](https://docs.python.org/3/library/collections.abc.html#collections-abstract-base-classes)
 - Library > [Collections](https://docs.python.org/3/library/collections.html)
