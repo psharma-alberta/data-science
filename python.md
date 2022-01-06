@@ -1,6 +1,6 @@
 [mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md)
 / [data-science](https://github.com/mobilege/data-science/blob/master/README.md)
-/ [python]()
+/ [python](https://github.com/mobilege/data-science/blob/master/python.md)
 
 # Python
 - [Python 3 documentation](https://docs.python.org/3/), 
