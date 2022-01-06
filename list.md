@@ -3,6 +3,7 @@
 
 - [Tutorial - 3.1.3. Lists](https://docs.python.org/3/tutorial/introduction.html#lists)
 - [Library Reference - 4.6.4. Lists](https://docs.python.org/3/library/stdtypes.html#lists)
+- [py · list · create](https://replit.com/@rabinjoshi1/py-list-create#main.py)
 
 **Lists** are mutable sequences
 
