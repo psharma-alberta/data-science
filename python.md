@@ -27,7 +27,7 @@ Table of Contents
 - Mapping Types — dict
 
 
-#### [list](https://docs.python.org/3/library/stdtypes.html#lists)
+## [list](https://docs.python.org/3/library/stdtypes.html#lists)
 *Lists are mutable sequences*\
 *list > MutableSequence > Sequence > Container, Iterable, Sized* 
 
@@ -68,7 +68,7 @@ next(((i,v) for i, v in enumerate(list) if v == "foo"), None)
 [(i,v) for i, v in enumerate(list) if v == "baz"]
 ```
 
-#### [dict](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict)
+## [dict](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict)
 
 dict > MutableMapping > Mapping > Container, Iterable, Sized
 
@@ -87,13 +87,12 @@ dic.get("some_key", "default") # default if not found
 {k:v**2 for (k,v) in dic.items()}
 ```
 
-#### set 
+## set 
 
 set > MutableSet > Set > Container, Iterable, Sized
 
 
-
-#### Control Flow
+## Control Flow
 
 [enumerate](https://github.com/mobilege/data-science/blob/master/enumerate.md), 
 [zip](https://github.com/mobilege/data-science/blob/master/zip.md),
@@ -101,10 +100,6 @@ set > MutableSet > Set > Container, Iterable, Sized
 Generators
 
 - [Library: 2. Built-in Functions](https://docs.python.org/3/library/functions.html)
-
-## Misc
-
-[Style Guide](https://www.python.org/dev/peps/pep-0008/)
 
 ## [Boolean](https://docs.python.org/3/library/stdtypes.html#truth-value-testing)
 
@@ -117,6 +112,9 @@ False
 {}
 ```
 
+## Misc
+
+[Style Guide](https://www.python.org/dev/peps/pep-0008/)
 
 
 ```
