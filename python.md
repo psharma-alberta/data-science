@@ -16,62 +16,24 @@
 [Psql](http://postgresguide.com/utilities/psql.html)
 
 
-#### Collection Types
-
-https://replit.com/@rabinjoshi1/py-list-create
-
-Sequence Types — 
-[list](https://github.com/mobilege/data-science/blob/master/list.md), 
-[tuple](https://github.com/mobilege/data-science/blob/master/tuple.md), 
-[range](https://github.com/mobilege/data-science/blob/master/range.md) . 
+## Collection Types
 
 - [8.4.1. Collections Abstract Base Classes](https://docs.python.org/3/library/collections.abc.html#collections-abstract-base-classes)
 - [PEP 3119 -- Introducing Abstract Base Classes](https://www.python.org/dev/peps/pep-3119/)
+- Library > [Collections](https://docs.python.org/3/library/collections.html)
+- [PEP 3119 -- Introducing Abstract Base Classes](https://www.python.org/dev/peps/pep-3119/)
+
+
+Sequence Types — 
+[list](#list), 
+[tuple](#tuple), 
+[range](#range) 
 
 Text Sequence Type — str
 
 Set Types — set, frozenset
 
 Mapping Types — dict
-
-
-#### Control Flow
-
-[enumerate](https://github.com/mobilege/data-science/blob/master/enumerate.md), 
-[zip](https://github.com/mobilege/data-science/blob/master/zip.md),
-[Iterators](https://github.com/mobilege/data-science/blob/master/iterators.md),
-Generators
-
-- [Library: 2. Built-in Functions](https://docs.python.org/3/library/functions.html)
-
-## Misc
-
-[Style Guide](https://www.python.org/dev/peps/pep-0008/)
-
-## [Boolean](https://docs.python.org/3/library/stdtypes.html#truth-value-testing)
-
-```python
-# Evaluates to False:
-None
-False
-0, 0.0, 0j.
-'', (), [].
-{}
-```
-
-## [Collections](https://docs.python.org/3/library/collections.html)
-
-[PEP 3119 -- Introducing Abstract Base Classes](https://www.python.org/dev/peps/pep-3119/)
-
-```
-#generator expression
-gen = (function_of_x for x in list_of_x if condition_with_x) 
-list(gen) #convert to list
-next(gen) #get first, unsafe
-next(gen, default_value) #get first, safe
-
-#list comprehension
-[function_of_x for x in list_of_x if condition_with_x] #returns all or empty array
 ```
 
 #### list
@@ -146,3 +108,38 @@ set > MutableSet > Set > Container, Iterable, Sized
 
 
 
+#### Control Flow
+
+[enumerate](https://github.com/mobilege/data-science/blob/master/enumerate.md), 
+[zip](https://github.com/mobilege/data-science/blob/master/zip.md),
+[Iterators](https://github.com/mobilege/data-science/blob/master/iterators.md),
+Generators
+
+- [Library: 2. Built-in Functions](https://docs.python.org/3/library/functions.html)
+
+## Misc
+
+[Style Guide](https://www.python.org/dev/peps/pep-0008/)
+
+## [Boolean](https://docs.python.org/3/library/stdtypes.html#truth-value-testing)
+
+```python
+# Evaluates to False:
+None
+False
+0, 0.0, 0j.
+'', (), [].
+{}
+```
+
+
+
+```
+#generator expression
+gen = (function_of_x for x in list_of_x if condition_with_x) 
+list(gen) #convert to list
+next(gen) #get first, unsafe
+next(gen, default_value) #get first, safe
+
+#list comprehension
+[function_of_x for x in list_of_x if condition_with_x] #returns all or empty array
