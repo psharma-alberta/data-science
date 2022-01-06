@@ -30,7 +30,7 @@ Mapping Types — dict
 - Library > [Lists](https://docs.python.org/3/library/stdtypes.html#lists)
 - [py · list · create](https://replit.com/@rabinjoshi1/py-list-create#main.py)
 
-*Lists are mutable sequences*\ 
+*Lists are mutable sequences*\
 *list > MutableSequence > Sequence > Container, Iterable, Sized* 
 
 ```python
