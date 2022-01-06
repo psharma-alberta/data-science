@@ -26,6 +26,7 @@
 - Set Types — set, frozenset
 - Mapping Types — dict
 
+[Back to Top ↑ ](#table-of-contents)
 
 ## [list](https://docs.python.org/3/library/stdtypes.html#lists)
 *Lists are mutable sequences*\
