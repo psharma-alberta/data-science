@@ -59,16 +59,6 @@ False
 {}
 ```
 
-## [enum](https://docs.python.org/3/library/enum.html)
-
-### Enum
-
-### IntEnum
-
-### Flag
-
-### IntFlag.
-
 ## [Collections](https://docs.python.org/3/library/collections.html)
 
 [PEP 3119 -- Introducing Abstract Base Classes](https://www.python.org/dev/peps/pep-3119/)
@@ -84,31 +74,69 @@ next(gen, default_value) #get first, safe
 [function_of_x for x in list_of_x if condition_with_x] #returns all or empty array
 ```
 
+#### list
 
+- [Tutorial - 3.1.3. Lists](https://docs.python.org/3/tutorial/introduction.html#lists)
+- [Library Reference - 4.6.4. Lists](https://docs.python.org/3/library/stdtypes.html#lists)
+- [Library - 4.6.1. Common Sequence Operations](https://docs.python.org/3/library/stdtypes.html#common-sequence-operations)
+- [Library - 4.6.3. Mutable Sequence Types](https://docs.python.org/3/library/stdtypes.html#mutable-sequence-types)
+- [py · list · create](https://replit.com/@rabinjoshi1/py-list-create#main.py)
+
+**Lists** are mutable sequences
+
+list > MutableSequence > Sequence > Container, Iterable, Sized 
+
+```python
+list[i]	# ith item of s
+list[i:j]	# slice of s from i to j
+len(list) # length of list
+
+x in list	# True if exists
+x not in list	# False if exists
+
+list.append(elem) # adds a single element to the end of the list
+list.insert(index, elem) # inserts the element at the given index, shifting elements to the right
+list.extend(list2) # adds the elements in list2 to the end of the list
+list.remove(elem) # searches for the element, removes first instance, throws ValueError if not present
+list.sort() # sorts the list in place
+list.reverse() # reverses the list in place
+list.pop() # returns the rightmost element 
+list.pop(index) # removes and returns the element at the given index, 
+
+# Check if exists
+"foo" in list1
+any(elem.name == "foo" for elem in list)
+
+# Find element
+next((elem for elem in list if elem.name == "foo"), None) # first
+[elem for elem in list if elem.name == "foo"] # all, empty array if none found
+
+# Find index
+list.index("foo") # unsafe
+next((i for i, v in enumerate(list) if v == "foo"), None) # first
+[i for i, v in enumerate(list) if v == "baz"] # all
+
+# Find index & element
+next(((i,v) for i, v in enumerate(list) if v == "foo"), None)
+[(i,v) for i, v in enumerate(list) if v == "baz"]
+```
 
 #### [dict](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict)
 
 dict > MutableMapping > Mapping > Container, Iterable, Sized
 
-##### Find
-
 ```python
 # Check if exists
 "some_key" in dic
 any({k:v for (k,v) in dic.items() if v.name == "foo"})
-```
 
-```python
-# Find element
+# Find
 dic["some_key"] # unsafe, KeyError if key not found
 dic.get("some_key") # None if not found
 dic.get("some_key", "default") # default if not found
 {k:v for (k,v) in dic.items() if v.name == "foo"} # all, {} if none found 
-```
 
-##### Transform
-
-```python
+# Transform
 {k:v**2 for (k,v) in dic.items()}
 ```
 
@@ -117,11 +145,4 @@ dic.get("some_key", "default") # default if not found
 set > MutableSet > Set > Container, Iterable, Sized
 
 
-<div>
-<iframe frameborder="0" width="100%" height="500px" src="REPL_URL?QUERY_PARAMETERS"></iframe>
-</div>
-
-<figure class="video_container">
-<iframe src="https://docs.google.com/document/d/1mHhOhvvrz7xgUPyn5VWCNuKgew5MRRGZp761B9prPqs/pub?embedded=true"></iframe>
-</figure>
 
