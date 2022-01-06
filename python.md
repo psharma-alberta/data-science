@@ -1,23 +1,11 @@
 # Python
-
 - [Python 3 documentation](https://docs.python.org/3/), 
 [Tutorial](https://docs.python.org/3/tutorial/index.html)
 [Library](https://docs.python.org/3/library/index.html), 
 [Language Reference](https://docs.python.org/3/reference/index.html)
 
-- CS50W Notes: 
-[Python and Flask](https://cs50.harvard.edu/web/notes/2/), 
-[SQL](https://cs50.harvard.edu/web/notes/3/), 
-[ORMs and APIs](https://cs50.harvard.edu/web/notes/4/)
-
-- SQL: 
-[Postgres.app](https://postgresapp.com), 
-[Install](https://youtu.be/5AOkxqFaYEE), 
-[Psql](http://postgresguide.com/utilities/psql.html)
-
 
 ## Collection Types
-
 - Library > [Collections Abstract Base Classes](https://docs.python.org/3/library/collections.abc.html#collections-abstract-base-classes)
 - Library > [Collections](https://docs.python.org/3/library/collections.html)
 - Library > [Common Sequence Operations](https://docs.python.org/3/library/stdtypes.html#common-sequence-operations)
@@ -42,8 +30,7 @@ Mapping Types — dict
 - Library > [Lists](https://docs.python.org/3/library/stdtypes.html#lists)
 - [py · list · create](https://replit.com/@rabinjoshi1/py-list-create#main.py)
 
-*Lists are mutable sequences*
-
+*Lists are mutable sequences*\ 
 *list > MutableSequence > Sequence > Container, Iterable, Sized* 
 
 ```python
