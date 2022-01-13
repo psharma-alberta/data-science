@@ -6,8 +6,11 @@
 Language: [Python](https://github.com/mobilege/data-science/blob/master/python.md)
 
 Frameworks: NumPy, Pandas
+
+## Courses
+- [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
  
-[Machine Learning](https://github.com/mobilege/data-science/blob/master/machine-learning.md) 
+## [Machine Learning](https://github.com/mobilege/data-science/blob/master/machine-learning.md) 
 
 - Machine Learning - Coursera *blocked by math prerequisites needed to understand the numerical solution to gradient descent*
 - moved on to Learning From Data - CalTech
