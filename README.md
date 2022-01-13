@@ -8,6 +8,7 @@ Language: [Python](https://github.com/mobilege/data-science/blob/master/python.m
 Frameworks: NumPy, Pandas
 
 ## Courses
+- [Data Analyst - IBM - EdX](https://courses.edx.org/dashboard/programs/e78d61bc-aa9d-417f-b244-fed28f5737b6/)
 - [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
  
 ## [Machine Learning](https://github.com/mobilege/data-science/blob/master/machine-learning.md) 
