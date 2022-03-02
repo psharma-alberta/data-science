@@ -22,3 +22,12 @@ SELECT DISTINCT vend_id FROM Products;
 -- Limit
 SELECT * FROM Products LIMIT 3;
 ```
+
+#### Sort 
+```SQL
+-- Sort single column ascending
+
+-- Sort single column descending
+
+-- Sort two columns, first ascending, second descending
+```
