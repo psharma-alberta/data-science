@@ -10,3 +10,16 @@
 
 #### Retrieving Data
 
+```SQL
+# Retrieving All Columns
+SELECT * FROM Products;
+
+# Retrieving specific columns
+SELECT prod_id, vend_id, prod_name FROM Products;
+
+# Distinct
+SELECT DISTINCT vend_id FROM Products;
+
+# Limit
+SELECT * FROM Products LIMIT 3;
+```
