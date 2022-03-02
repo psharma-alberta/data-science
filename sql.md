@@ -7,3 +7,6 @@
 
 - Book Resources: https://forta.com/books/0135182794/
 - Blog: https://cierra-andaur.medium.com/sams-teach-yourself-sql-in-10-minutes-a-day-setting-up-for-success-76dd346e5dd
+
+#### Retrieving Data
+
