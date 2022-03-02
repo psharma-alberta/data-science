@@ -9,17 +9,16 @@
 - Blog: https://cierra-andaur.medium.com/sams-teach-yourself-sql-in-10-minutes-a-day-setting-up-for-success-76dd346e5dd
 
 #### Retrieving Data
-
 ```SQL
-# Retrieving all columns
+-- Retrieving All Columns
 SELECT * FROM Products;
 
-# Retrieving specific columns
+-- Retrieving specific columns
 SELECT prod_id, vend_id, prod_name FROM Products;
 
-# Distinct
+-- Distinct
 SELECT DISTINCT vend_id FROM Products;
 
-# Limit
+-- Limit
 SELECT * FROM Products LIMIT 3;
 ```
