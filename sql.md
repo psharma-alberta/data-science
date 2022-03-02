@@ -11,7 +11,7 @@
 #### Retrieving Data
 
 ```SQL
-# Retrieving All Columns
+# Retrieving all columns
 SELECT * FROM Products;
 
 # Retrieving specific columns
