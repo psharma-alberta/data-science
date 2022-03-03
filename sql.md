@@ -31,3 +31,16 @@ SELECT * FROM Products LIMIT 3;
 
 -- Sort two columns, first ascending, second descending
 ```
+
+#### Filter (WHERE)
+
+```SQL
+-- Return records matching value
+
+-- Return records not matching value
+
+-- Return records matching range
+
+-- Return records matching no value
+
+```
