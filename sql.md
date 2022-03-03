@@ -3,12 +3,10 @@
 
 # SQL
 
-#### Setup
-
 - Book Resources: https://forta.com/books/0135182794/
 - Blog: https://cierra-andaur.medium.com/sams-teach-yourself-sql-in-10-minutes-a-day-setting-up-for-success-76dd346e5dd
 
-#### Retrieving Data
+#### 1. Retrieving Data (SELECT)
 ```SQL
 -- Retrieving All Columns
 SELECT * FROM Products;
@@ -23,7 +21,7 @@ SELECT DISTINCT vend_id FROM Products;
 SELECT * FROM Products LIMIT 3;
 ```
 
-#### Sort 
+#### 2. Sorting Data (SORT) 
 ```SQL
 -- Sort single column ascending
 
@@ -32,8 +30,7 @@ SELECT * FROM Products LIMIT 3;
 -- Sort two columns, first ascending, second descending
 ```
 
-#### Filter (WHERE)
-
+#### 4. Filtering Data (WHERE)
 ```SQL
 -- Return records matching value
 
@@ -43,4 +40,22 @@ SELECT * FROM Products LIMIT 3;
 
 -- Return records matching no value
 
+-- IN
+
+-- NOT
+
+-- LIKE (wildcards)
+
 ```
+
+#### 5. Using Data Manipulation Functions
+
+#### 6. Summarizing Data (Aggregate Functions)
+
+#### 7. Grouping Data
+
+#### 8. Joining Tables
+
+#### 9. Inserting, Updating & Deleting Records
+
+#### 10. Creating, Updating and Deleting Tables
