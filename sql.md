@@ -30,22 +30,26 @@ SELECT * FROM Products LIMIT 3;
 -- Sort two columns, first ascending, second descending
 ```
 
-#### 4. Filtering Data (WHERE)
+#### 3. Filtering Data (WHERE)
 ```SQL
 -- Return records matching value
 
 -- Return records not matching value
 
--- Return records matching range
-
 -- Return records matching no value
 
--- IN
+-- Return records BETWEEN range
 
--- NOT
+-- Return records IN range
+```
 
--- LIKE (wildcards)
+#### 4. Advanced Filtering with wildcards (LIKE)
+```
+-- Return Records that begins with, ends with and contains a specific string.
 
+-- Return Records that begins with, or ends with any (single) character where the rest of the string is given.
+
+-- Return Records that begins with, or ends with one of two given special characters, where the rest of the string is also given.
 ```
 
 #### 5. Using Data Manipulation Functions
